@@ -1,0 +1,1001 @@
+Name,Age,Gender,Occupation,Income,Expenses,CreditScore,RiskLevel,InvestmentAmount,DebtLevel,SavingsRate,HomeOwnership,JobStability
+Jessica Klein,21,Female,Community pharmacist,87795,16812,399,1,43571,Medium,0.12,Lease,High
+Frank Norris,46,Female,Waste management officer,48323,12785,568,0,8513,Low,0.1,Lease,High
+Vincent Cook,31,Female,Television production assistant,48433,13995,316,0,5327,Medium,0.23,Lease,High
+Kathryn White,35,Male,"Radiographer, diagnostic",61606,16888,300,1,35212,Low,0.26,Lease,Low
+Kimberly Peterson,64,Female,Medical sales representative,48966,31604,303,2,21140,High,0.3,Own,High
+Janice Stevenson,57,Female,Medical sales representative,71343,26700,633,2,35515,Low,0.03,Own,Low
+William Webb,63,Male,Town planner,93046,22957,390,2,49381,Medium,0.15,Own,Medium
+Angel Castaneda,49,Female,Surgeon,79111,27132,499,0,12384,Low,0.0,Lease,Medium
+Karen Clark,37,Male,Risk manager,77086,18412,716,2,30651,High,0.29,Lease,High
+Sarah Richardson,44,Female,Scientific laboratory technician,56057,16758,565,0,40559,Low,0.32,Own,Low
+Debra Clarke,38,Male,"Copywriter, advertising",20744,11436,833,1,18213,Medium,0.37,Lease,High
+Mr. Randy Estrada MD,32,Female,"Accountant, chartered management",66588,16484,789,1,44817,High,0.07,Lease,Medium
+Amanda Cervantes,54,Female,Transport planner,33751,29924,641,1,17122,Low,0.34,Lease,High
+Allen Morrison,28,Female,"Accountant, chartered public finance",99753,11761,335,0,43374,High,0.0,Lease,Low
+Timothy Leonard,30,Female,Bookseller,65012,28974,674,1,17464,Low,0.22,Own,Low
+Adrian Henderson,37,Female,Arboriculturist,52412,18912,626,2,24279,High,0.24,Lease,Low
+Jeffrey Price,41,Female,Operational researcher,31536,39692,451,1,27676,Low,0.07,Lease,Low
+Juan Mcdonald,19,Female,"Engineer, chemical",97920,13782,372,1,42230,Low,0.38,Own,High
+Cynthia Rose,57,Female,TEFL teacher,30558,32712,644,1,30447,High,0.03,Lease,Medium
+Krista Aguirre,41,Female,Community pharmacist,89831,10197,549,1,16946,Low,0.37,Lease,High
+Jennifer Hansen,39,Female,Adult nurse,36276,7562,358,1,33487,High,0.36,Own,Medium
+Melinda Huber,24,Female,Medical secretary,77617,7526,749,0,22546,High,0.13,Own,High
+Jonathan Vargas,32,Female,Risk analyst,96276,27990,530,0,33174,Medium,0.38,Lease,High
+Joann White,62,Male,Chief Operating Officer,66198,34902,553,1,12621,Medium,0.14,Own,High
+Taylor Andrews,37,Male,Advertising account executive,40965,25114,411,0,49607,Low,0.14,Own,Low
+Andrew Ortiz,48,Female,Brewing technologist,22686,38661,750,0,29839,Low,0.21,Own,High
+Samuel Taylor,33,Female,Warden/ranger,99388,23485,602,2,31080,High,0.12,Own,Low
+Rebecca Campbell,20,Female,"Civil engineer, consulting",70587,22514,616,2,46753,Low,0.09,Lease,Medium
+David Young,30,Female,Trade mark attorney,55470,35620,415,1,44691,High,0.08,Lease,Medium
+Michelle Ramos,49,Female,Therapeutic radiographer,65570,17598,429,1,20803,Medium,0.01,Own,Low
+Steven Lopez,34,Male,"Horticulturist, commercial",20090,32032,485,1,37333,Low,0.04,Lease,High
+Tina Powers,29,Male,"Radiographer, diagnostic",37009,29462,742,2,48795,High,0.29,Own,Low
+William Tapia,24,Male,Charity officer,53186,5200,802,2,9609,Low,0.34,Own,Low
+Keith Lam,62,Male,"Surveyor, minerals",45072,35792,473,1,9323,Low,0.3,Own,High
+Joshua Kramer,25,Male,Acupuncturist,93886,33278,718,2,27037,High,0.28,Own,Low
+Loretta Jackson,53,Male,Geographical information systems officer,32202,6158,377,0,31310,Low,0.2,Lease,High
+Diane Gilbert,22,Female,Chiropractor,76473,34425,399,0,8069,High,0.03,Lease,High
+Michelle Green,42,Female,Financial manager,90762,11195,602,0,29833,Medium,0.03,Lease,Low
+Donna Hawkins,24,Male,Brewing technologist,94369,24649,709,2,39582,High,0.15,Lease,Low
+Phillip Cabrera,25,Female,Fine artist,63720,12243,498,0,49350,Medium,0.05,Lease,Low
+Jasmine Miller,20,Female,"Journalist, broadcasting",27204,33300,420,0,49218,Medium,0.18,Lease,Medium
+Jennifer Archer,61,Male,Lawyer,38722,9213,737,1,46849,High,0.16,Own,Medium
+Samantha Neal,45,Female,Ambulance person,23751,9958,581,1,34756,High,0.07,Own,High
+Kenneth Hill,47,Female,"Exhibitions officer, museum/gallery",56847,26922,672,2,19760,Medium,0.31,Own,Medium
+Thomas Wagner,26,Female,Passenger transport manager,38104,31167,777,1,36624,High,0.16,Own,Low
+Robert Meadows,54,Female,"Engineer, control and instrumentation",40651,7501,412,1,19196,Medium,0.06,Own,High
+Erika Armstrong,49,Male,Administrator,71395,13899,482,2,37371,Low,0.38,Lease,Low
+Sandra Osborne,30,Female,"Surveyor, planning and development",52149,29614,740,1,25419,Low,0.32,Own,Medium
+Amber Jones,37,Male,"Exhibitions officer, museum/gallery",74892,11207,336,0,22857,High,0.08,Own,Medium
+Carlos Singleton,25,Female,Newspaper journalist,28363,39285,327,0,46555,Low,0.13,Own,High
+Jennifer Mitchell,45,Female,"Education officer, environmental",38655,5111,840,0,48446,High,0.33,Own,High
+Stacey Guerra,28,Male,Systems developer,65008,28129,604,1,8442,High,0.3,Own,Low
+Calvin Underwood,22,Female,Chief Operating Officer,95557,6892,758,0,8203,High,0.31,Lease,High
+Lisa Nash,55,Male,Public affairs consultant,39101,29915,677,0,42378,Low,0.18,Own,Medium
+Maurice Young,62,Male,Geoscientist,30755,14326,453,1,39542,Medium,0.32,Lease,Low
+Sean Powell,53,Male,Data scientist,52520,33644,694,2,34505,Medium,0.3,Lease,Medium
+Phyllis Mcdonald,35,Female,Secondary school teacher,82178,10151,676,1,34456,Medium,0.03,Own,Medium
+Tammy Chambers,60,Female,Technical brewer,50014,29151,544,1,19390,Low,0.09,Lease,High
+Jimmy Lopez DDS,30,Female,"Merchandiser, retail",54173,6331,740,1,5530,Low,0.19,Own,Low
+Anne Torres,59,Female,Radio producer,46012,38196,665,2,6310,Low,0.3,Own,Low
+Kimberly Bernard,47,Male,Records manager,77629,30081,554,1,10214,Low,0.33,Lease,High
+Joseph Bernard,43,Male,Radio broadcast assistant,22823,23123,741,1,19481,Medium,0.13,Lease,High
+Timothy Cooper,42,Female,IT technical support officer,73685,23803,519,0,6556,Low,0.18,Own,High
+Antonio Lewis,53,Female,"Psychotherapist, dance movement",25954,39311,322,1,49981,High,0.14,Own,High
+Roberta Morris,40,Male,Intelligence analyst,81972,26065,593,2,32074,Medium,0.13,Own,High
+Eric Powell,54,Female,Freight forwarder,59222,27479,743,1,26762,Medium,0.25,Own,Medium
+Dr. James Mason,28,Male,"Physicist, medical",78806,23712,650,2,43455,Medium,0.03,Lease,High
+Samantha Simpson,54,Female,"Engineer, land",37346,35030,356,1,33646,Medium,0.12,Lease,Low
+Robert Lloyd,33,Male,Pathologist,47498,38254,574,2,35190,Medium,0.11,Own,Medium
+Mike Medina,61,Male,"Engineer, biomedical",61749,15367,739,1,8705,High,0.32,Own,Low
+Grant Wright,57,Female,Academic librarian,21257,10487,429,2,24056,High,0.39,Lease,Medium
+Lisa Baker,57,Female,Energy manager,77378,37210,818,2,37539,High,0.32,Lease,High
+Robert Chang,58,Male,"Sound technician, broadcasting/film/video",47544,34677,486,1,14238,Low,0.17,Own,High
+Samantha Novak,57,Male,Warden/ranger,71883,19688,664,1,48809,High,0.3,Lease,High
+Felicia Thompson,22,Female,Government social research officer,41461,8720,645,2,23634,High,0.21,Lease,Low
+Jasmine Walsh,53,Female,Human resources officer,73413,30876,354,0,16647,Low,0.09,Own,High
+Robert Wiley,55,Female,Financial adviser,68549,10930,644,0,40465,Medium,0.27,Lease,Low
+Amanda Crawford,50,Male,"Teacher, music",22920,20853,600,2,29066,Low,0.34,Lease,Medium
+Kayla Mcgrath,27,Male,Insurance risk surveyor,61542,24386,428,2,34436,Medium,0.29,Lease,Low
+Rebecca Daniel,29,Male,"Producer, television/film/video",27084,6856,343,2,30890,Medium,0.11,Lease,High
+Austin Silva,62,Female,Production manager,92879,39270,457,1,18570,Low,0.05,Own,High
+Pamela Parks,50,Male,Occupational hygienist,72187,14660,777,1,29594,Low,0.01,Own,Medium
+Alexis Lewis,50,Female,Textile designer,36348,32600,632,0,11574,Medium,0.02,Own,Low
+Wendy Moran,19,Female,Web designer,25654,32093,624,2,28332,High,0.36,Own,High
+Leonard Casey,47,Male,Dietitian,51281,8932,388,0,17752,Low,0.06,Own,High
+Angela Mcdonald,61,Female,"Doctor, general practice",91624,9327,672,2,24303,Low,0.19,Lease,High
+Tammy Jones,35,Female,Counsellor,74708,24840,471,0,49475,High,0.34,Lease,Low
+Deborah Smith,42,Female,Legal executive,41020,38910,346,1,23717,Low,0.2,Own,Low
+Jeffrey Martin,27,Male,"Production designer, theatre/television/film",70095,25623,644,2,20569,High,0.23,Own,Medium
+Joseph Martinez,30,Male,"Surveyor, quantity",96360,39171,309,2,24884,High,0.21,Own,Medium
+Dawn Buchanan,52,Female,Health physicist,96266,12218,587,0,24068,Medium,0.13,Own,Medium
+Andrea Wagner,36,Female,Environmental manager,21687,38483,395,0,40587,Medium,0.3,Lease,Medium
+April Ramirez,36,Male,Media buyer,33867,7487,351,2,14536,Medium,0.3,Own,High
+Michael Gibbs,44,Male,Chartered certified accountant,23890,24698,719,0,47264,Medium,0.3,Lease,High
+Robert Warner,61,Male,Hospital pharmacist,28692,10273,757,2,6414,High,0.39,Lease,High
+Nichole Wiley,32,Female,Holiday representative,58097,34012,833,2,13914,Low,0.26,Lease,Low
+Sheri White,33,Male,Tourist information centre manager,60474,7431,610,2,36311,Low,0.03,Own,Medium
+Mark Curtis,49,Male,"Engineer, communications",81727,28119,787,1,33120,Medium,0.16,Lease,High
+Michael Buckley,56,Male,Art therapist,78814,31829,305,1,14118,Low,0.15,Own,High
+Andrea Lee,24,Female,Tree surgeon,50779,26707,479,1,17056,Low,0.26,Lease,Medium
+Jared Baker,37,Female,Naval architect,94668,29775,694,1,37941,Low,0.3,Lease,Low
+Patricia Robinson,60,Female,"Producer, radio",34119,28595,362,2,11471,Low,0.06,Lease,Medium
+Shane Schwartz,30,Female,Clinical research associate,53973,37601,713,2,30899,Low,0.34,Own,Medium
+Elizabeth Garcia,63,Male,Leisure centre manager,28105,21555,816,1,40473,Medium,0.2,Lease,Low
+Eric Hinton,27,Male,Heritage manager,52854,33976,691,2,48856,Low,0.2,Lease,Low
+Jeremy Hancock,30,Female,Multimedia specialist,80817,36539,414,2,19049,Medium,0.2,Own,High
+Andrea Brown MD,18,Female,Conference centre manager,84300,13524,537,1,10343,Medium,0.07,Lease,Low
+Christopher Taylor,43,Female,"Physicist, medical",34938,10080,438,0,47345,Medium,0.21,Own,High
+Daniel Baker,35,Female,Dentist,86701,13485,347,2,34069,Low,0.0,Own,High
+Carmen Allen,38,Male,Interpreter,23861,9675,728,1,12511,High,0.02,Lease,Medium
+Charles Cobb,38,Female,Health and safety adviser,64452,11592,672,1,41706,High,0.07,Lease,Low
+Elizabeth Mueller,59,Male,Product/process development scientist,90017,37808,405,2,42274,Low,0.05,Own,Low
+Kristin Lowe,39,Male,"Designer, ceramics/pottery",97079,18707,406,2,31563,High,0.2,Own,Low
+Brittany Campbell,19,Female,Nutritional therapist,35663,28703,834,2,29206,High,0.28,Lease,High
+Herbert Meyer,50,Female,Commercial horticulturist,98609,11113,474,1,45995,Medium,0.12,Lease,High
+Andre Kaiser,47,Male,Camera operator,56477,29081,345,0,34670,Medium,0.14,Own,Medium
+Stacey Brown,20,Female,Petroleum engineer,49865,17698,338,1,45679,Low,0.36,Own,Medium
+James Browning,31,Female,"Surveyor, minerals",57483,36374,844,2,42471,Medium,0.39,Lease,High
+Timothy Elliott,36,Female,"Presenter, broadcasting",83501,19941,328,1,33630,High,0.36,Lease,High
+Christopher Mcbride,29,Male,"Designer, jewellery",24274,17147,391,2,17007,Low,0.09,Own,High
+Laura Parker,54,Male,Commercial horticulturist,78143,5254,807,0,32984,High,0.34,Own,Medium
+Andrew Matthews,31,Male,Metallurgist,64723,9906,797,0,17964,High,0.14,Lease,Medium
+Regina Hayes,60,Female,Paramedic,34536,20353,313,1,37917,High,0.17,Own,High
+Denise Ruiz,38,Female,Geophysical data processor,22726,17094,811,1,37069,High,0.15,Own,High
+Diana King,44,Male,Housing manager/officer,42345,10857,670,1,26848,Low,0.14,Lease,Low
+Darlene Morton,63,Female,Ranger/warden,72452,39962,813,0,10765,Low,0.28,Lease,Medium
+John Patton,26,Female,Trade mark attorney,97495,26893,533,0,41383,Low,0.08,Lease,High
+Angela Martinez,52,Male,General practice doctor,88847,7342,335,1,27080,Low,0.33,Own,Low
+Mark Hopkins,30,Male,"Therapist, music",41151,18183,612,0,30880,Low,0.17,Own,Medium
+Justin Ortiz,64,Male,Educational psychologist,50979,22990,664,2,16189,Medium,0.25,Lease,Low
+Melissa Clark,56,Female,Dealer,25378,8171,650,1,8614,Medium,0.02,Lease,Medium
+Nicolas Woods,48,Male,"Administrator, local government",35105,32023,469,2,22987,Medium,0.15,Own,Low
+Devin Perry,37,Female,Arts development officer,54880,17853,516,1,19833,High,0.4,Lease,Medium
+Jane Ortiz MD,23,Female,Illustrator,78079,6562,664,1,32069,Low,0.29,Lease,Low
+Christopher Wilson,36,Male,Pharmacologist,53950,6526,665,2,40038,Low,0.26,Own,Medium
+Amanda Lee,35,Female,"Buyer, retail",30095,9989,824,1,39569,Medium,0.29,Lease,Medium
+Maurice Ward,25,Male,Purchasing manager,53237,39370,490,0,45631,High,0.15,Lease,Low
+Sarah Williamson,54,Female,Social worker,96219,24052,359,1,21832,Medium,0.26,Own,High
+Nathan Leach,31,Male,Museum/gallery conservator,79399,37865,552,1,39136,Medium,0.37,Lease,High
+Laura Hill,46,Male,"Psychotherapist, dance movement",66437,31478,674,0,48071,Medium,0.17,Lease,High
+Tyler Nichols,45,Female,"Therapist, sports",70144,30601,691,1,24965,High,0.15,Lease,High
+Ryan Ross,45,Male,Glass blower/designer,43913,37058,497,1,36638,Low,0.0,Lease,Low
+Deborah Mitchell,26,Male,Legal secretary,53626,19856,395,0,29444,High,0.37,Lease,High
+Dana Moore,36,Male,"Engineer, broadcasting (operations)",67520,7702,729,0,23734,High,0.15,Lease,High
+Jessica Mann,42,Female,Heritage manager,79568,24717,427,1,41114,Medium,0.11,Own,Medium
+Timothy Maynard,18,Female,Computer games developer,43297,20478,349,2,16242,High,0.28,Lease,Medium
+Amber Davis,50,Male,Special educational needs teacher,25803,16287,789,2,27984,Medium,0.13,Own,Medium
+Jill Pope,25,Male,Adult guidance worker,21173,30355,385,1,44954,High,0.03,Lease,Low
+Joseph Wells,38,Male,Operational researcher,98807,27631,438,0,41635,Low,0.3,Own,High
+Debbie Walters,37,Female,"Engineer, water",86203,18643,440,1,41300,High,0.05,Own,High
+Robert Baker,29,Female,Archivist,29631,30697,746,1,44181,High,0.27,Own,Low
+Destiny Moore,64,Male,Gaffer,71025,10127,301,0,35914,High,0.07,Own,Medium
+Pamela Holland,37,Female,Special educational needs teacher,71219,15740,529,2,11844,High,0.08,Lease,Medium
+Nicholas Shelton,50,Female,"Investment banker, corporate",80488,37657,687,0,25070,Medium,0.1,Lease,Medium
+Brandy Reeves,39,Male,Theatre manager,86304,35780,840,2,26851,Low,0.1,Lease,High
+Rachel Martin,32,Female,Higher education careers adviser,92588,34298,466,1,6021,High,0.17,Lease,High
+Christopher Allen,42,Female,"Social research officer, government",78201,8090,579,1,48842,Low,0.39,Own,Medium
+Shannon Mack,34,Female,Sports administrator,75780,11801,769,2,24842,Medium,0.06,Lease,High
+Jamie Harrell,19,Male,Advice worker,51504,5079,342,0,25622,Low,0.22,Lease,Medium
+Michael Marsh,21,Female,"Scientist, biomedical",42879,15197,361,2,34441,High,0.3,Lease,Medium
+Kevin Wang,62,Male,Trade mark attorney,25918,10284,588,1,20402,Low,0.31,Lease,Low
+Larry Dominguez,52,Male,Quantity surveyor,68222,30933,625,1,22708,Medium,0.39,Own,Medium
+Kenneth Holt Jr.,24,Female,Paediatric nurse,55466,18170,707,2,44698,Medium,0.27,Lease,High
+Amanda Jensen,53,Male,"Engineer, materials",28676,28615,482,0,46313,Medium,0.05,Own,High
+Angela Thompson,61,Male,Petroleum engineer,45452,39499,407,2,42371,Low,0.09,Own,Medium
+Cody Joseph,63,Male,"Administrator, charities/voluntary organisations",75585,37451,436,2,34350,Medium,0.01,Lease,Medium
+Tyler Rogers,47,Male,"Scientist, water quality",67018,15377,304,0,45398,Medium,0.36,Own,Medium
+Peter Collins,34,Female,Sales promotion account executive,24342,36234,339,1,47134,High,0.1,Lease,High
+Emily Bryant,35,Male,IT consultant,54688,13893,439,0,31870,Medium,0.01,Lease,High
+Kyle Ruiz,37,Female,Insurance broker,49760,12845,549,0,35308,Low,0.12,Lease,Low
+Teresa Reed,44,Female,Land/geomatics surveyor,40698,11554,463,1,28775,Low,0.02,Lease,Low
+Andrea Calderon,40,Male,Insurance broker,93429,38897,552,1,19233,Low,0.27,Lease,Low
+Robyn Richardson,20,Male,Financial controller,97194,14010,600,0,34305,Medium,0.08,Own,Low
+Kevin Gutierrez,47,Female,Textile designer,93126,19194,498,0,44599,Low,0.29,Lease,Low
+Bethany Nguyen,45,Male,Theatre manager,20069,17004,327,1,21762,Low,0.04,Lease,Medium
+Christopher Tran,57,Female,Public house manager,39245,9780,784,0,46712,High,0.21,Lease,Medium
+James Brown,34,Female,Medical illustrator,87175,12542,602,2,18313,High,0.2,Lease,Medium
+Sharon Jacobs,42,Female,Armed forces operational officer,37199,23620,339,1,10184,Low,0.21,Own,Medium
+Andrea Harrington,62,Female,"Engineer, control and instrumentation",22956,10592,499,1,7635,Medium,0.2,Lease,Medium
+Brad Lee,39,Female,Camera operator,33070,5099,815,1,8041,Medium,0.38,Own,Low
+Shannon Mitchell,39,Male,Media buyer,70571,28066,393,1,42553,High,0.16,Own,Low
+Andrew Schultz,64,Female,Adult guidance worker,39908,10557,692,2,46789,Medium,0.3,Lease,High
+Emily Hansen,23,Male,Web designer,96210,28615,830,0,14749,Low,0.37,Own,High
+Kathleen Cardenas,61,Male,"Scientist, water quality",75381,35898,662,0,30520,Medium,0.12,Own,Low
+Amy Smith,19,Female,"Teacher, early years/pre",28998,5029,518,1,26404,Medium,0.2,Lease,Low
+Jasmin Schneider,59,Female,"Nurse, children's",35511,19866,796,2,19719,High,0.09,Own,Medium
+Randy Gonzales,37,Female,Audiological scientist,34986,28691,546,0,27232,Low,0.09,Lease,Medium
+Jacob Hernandez,35,Female,Child psychotherapist,21894,12243,791,0,40150,Medium,0.13,Lease,High
+Sheila Reyes,18,Female,"Journalist, newspaper",51894,9100,667,2,13754,Medium,0.21,Own,Medium
+Kenneth Chaney,20,Male,"Teacher, special educational needs",67859,11647,794,0,22733,High,0.01,Own,Medium
+Shelly Thomas,51,Male,Local government officer,50338,34092,455,2,18638,Low,0.37,Lease,Medium
+Jeremiah Jacobson,34,Female,"Nurse, children's",36644,11816,365,2,6308,Low,0.37,Lease,High
+Benjamin Lowe,37,Male,"Exhibitions officer, museum/gallery",73277,27179,592,1,42250,Medium,0.29,Lease,Medium
+Sarah Fox,42,Female,"Engineer, mining",72050,18663,834,2,48921,High,0.4,Lease,High
+Kimberly Miller,49,Female,Purchasing manager,64634,34181,679,0,37308,Medium,0.11,Own,Medium
+Christopher Rogers,64,Female,Production manager,89042,38621,476,2,40006,Medium,0.08,Lease,Low
+Brian Clements,54,Male,"Scientist, audiological",57857,17820,628,0,16010,Low,0.21,Own,High
+Alexis Levine,50,Female,Product manager,62934,8069,760,2,8310,High,0.18,Lease,Medium
+Andrew Richardson,42,Male,Social researcher,45554,32807,523,2,31662,Medium,0.28,Own,Low
+Kenneth Ruiz,39,Male,Pension scheme manager,79378,39631,459,0,28752,High,0.36,Own,Medium
+Patrick Palmer,33,Male,"Investment banker, corporate",96635,30033,641,1,16403,Low,0.07,Own,Medium
+Tina Meadows,32,Female,Amenity horticulturist,45804,28595,707,2,47586,Medium,0.03,Lease,Low
+Frederick Diaz,56,Female,"Engineer, drilling",20420,21341,552,2,32930,Low,0.38,Lease,Low
+Kevin Haynes,63,Male,Print production planner,30115,12656,701,1,8243,Low,0.12,Own,High
+Michael Martin,36,Female,Nutritional therapist,65205,13047,544,1,6906,High,0.38,Own,Low
+Oscar Lam,60,Male,Landscape architect,21300,10679,668,2,36387,High,0.04,Lease,Medium
+Aaron Robertson,34,Male,"Biochemist, clinical",48757,8407,529,1,26290,Low,0.02,Own,Medium
+Mary Griffith,27,Male,Meteorologist,55349,13536,679,0,41537,Medium,0.4,Own,Low
+Martha Macdonald,41,Female,Chartered public finance accountant,88353,10800,392,0,16395,Medium,0.06,Own,Medium
+Christopher Martin,27,Male,Air broker,29523,22464,747,2,44123,Low,0.06,Own,Low
+Heather Cook,51,Male,Hydrologist,67887,14410,473,2,40100,Low,0.13,Lease,Low
+Karen Small,47,Female,Neurosurgeon,78822,6662,656,0,47889,High,0.12,Own,Medium
+James Roberts,46,Female,Call centre manager,95544,12057,744,0,13531,Medium,0.17,Own,Low
+Gregory Fields,46,Male,"Copywriter, advertising",42378,12918,787,0,11293,Medium,0.01,Lease,Low
+Herbert Myers,64,Female,Biomedical scientist,47597,25038,728,0,30112,Low,0.23,Lease,High
+Scott Berg,20,Male,"Designer, multimedia",62855,26477,610,1,7914,High,0.38,Own,Medium
+Hector Garcia,39,Female,"Buyer, retail",31264,15461,378,1,23677,Low,0.23,Own,Medium
+Dawn Washington,33,Female,Paramedic,75394,8868,570,0,15099,Low,0.13,Own,Medium
+Shannon Moore,49,Male,Dentist,88777,14776,753,2,9673,Medium,0.39,Lease,High
+Dr. Andrew Monroe,39,Female,Site engineer,42798,13682,487,1,36289,High,0.0,Own,Medium
+Patricia Foster,25,Male,"Scientist, marine",91929,6418,305,1,36841,Low,0.28,Lease,High
+Lisa Gonzalez,56,Female,Visual merchandiser,66580,24521,720,1,20441,High,0.04,Own,High
+Michael Taylor,64,Female,Energy engineer,41997,10764,700,1,10795,Medium,0.02,Own,High
+Jennifer Diaz,58,Male,Lexicographer,28880,30397,614,2,49183,High,0.16,Lease,Medium
+Justin Wang,27,Female,Lobbyist,73231,9857,494,2,27839,Medium,0.1,Lease,High
+Sharon Jones,47,Female,Metallurgist,72511,17376,543,1,38618,High,0.02,Own,Low
+Mr. Frank Jones,23,Female,Print production planner,58482,17878,587,1,19396,High,0.07,Own,High
+Norma Flores,45,Male,Sports development officer,73594,11746,568,1,27052,Low,0.05,Lease,Medium
+Jennifer Roberts,31,Male,Petroleum engineer,50562,18233,461,0,44097,Low,0.12,Lease,Medium
+Marilyn Mcclain,32,Male,Town planner,66827,21225,311,1,21140,High,0.38,Lease,High
+Craig Robinson,46,Female,Quarry manager,42617,33212,644,0,11965,Low,0.25,Own,Low
+Susan Kelly,40,Female,"Radiographer, diagnostic",72852,39444,482,0,45733,Medium,0.16,Lease,Low
+Stephen Hernandez,25,Female,Brewing technologist,99346,32941,377,2,41440,Low,0.11,Lease,Medium
+Michael Cherry,47,Male,Charity fundraiser,75863,5818,412,1,38525,High,0.13,Own,High
+Nathan Wade,21,Female,"Psychotherapist, dance movement",51608,17555,553,2,32324,Medium,0.28,Own,Low
+Angela Miller,20,Female,Nature conservation officer,47234,14844,849,0,13718,Low,0.36,Own,High
+Patricia Hodge,60,Female,"Scientist, research (physical sciences)",65725,26237,501,0,28854,Low,0.36,Own,Medium
+Sean Johns MD,35,Female,"Clinical scientist, histocompatibility and immunogenetics",66097,21006,480,2,5878,Medium,0.16,Lease,Medium
+Jeffrey Delacruz,48,Female,Dramatherapist,43925,28788,441,2,45900,Low,0.18,Lease,Medium
+Thomas Houston,63,Male,Minerals surveyor,73984,19432,435,1,21746,Low,0.19,Own,High
+Allison Mclaughlin,18,Female,Podiatrist,86010,9812,736,2,16551,Medium,0.23,Lease,High
+Elizabeth Tyler,19,Female,Visual merchandiser,88107,12662,698,0,39946,High,0.16,Own,Low
+Rebecca Benson,37,Male,Advertising copywriter,39295,35611,713,2,33281,Low,0.34,Own,Low
+Jillian Graham,48,Female,Catering manager,98811,38812,434,0,17208,Low,0.07,Own,Medium
+Jamie Smith,49,Female,Herpetologist,54776,14064,743,0,10255,Medium,0.29,Own,Medium
+Michael Mullen,21,Female,Chartered legal executive (England and Wales),83820,28595,320,0,40846,Low,0.03,Lease,Low
+Albert Cook MD,29,Female,Contracting civil engineer,68719,35104,508,2,10495,High,0.12,Lease,Low
+Allison Robles,43,Female,"Surveyor, hydrographic",63447,5685,605,2,43718,Low,0.18,Lease,High
+Matthew Vargas,36,Female,Recycling officer,71216,16624,674,1,17328,Low,0.06,Own,Low
+Robin Brown,54,Female,Environmental manager,72116,15509,485,2,46888,High,0.3,Lease,High
+Adam Jenkins,60,Male,Music therapist,56406,20803,343,2,46608,Medium,0.2,Own,Low
+Nathaniel Smith,51,Female,Pension scheme manager,37264,21734,801,0,23276,High,0.01,Own,Low
+Rebecca Garcia,49,Female,Information systems manager,60470,18997,596,0,38532,Low,0.25,Lease,Low
+Kathryn Bell,50,Male,Trading standards officer,33091,31066,604,2,17401,Low,0.36,Lease,Low
+Kenneth Maldonado,53,Female,Chemical engineer,32859,20471,668,2,43748,Low,0.2,Lease,Low
+Tanya Ryan,56,Male,Theatre stage manager,76981,20513,435,2,25226,High,0.39,Own,High
+Jacqueline Phillips,19,Male,Astronomer,21246,39373,513,2,33231,Low,0.28,Lease,High
+Andrea Herrera,18,Male,Armed forces logistics/support/administrative officer,92509,38396,503,2,42400,Low,0.2,Own,Medium
+Leah Patrick DDS,51,Male,English as a second language teacher,48060,21099,407,2,6838,Medium,0.2,Own,Medium
+Rebecca Parker,19,Female,Textile designer,87661,38042,303,1,23421,Low,0.39,Own,Medium
+Robert Franklin,26,Male,Building services engineer,73860,20456,744,1,49671,Low,0.1,Lease,High
+Joshua Thompson,53,Female,Air broker,79528,35990,353,1,35314,High,0.11,Lease,Low
+Kaitlyn Rojas,31,Female,Holiday representative,96901,26642,498,0,33253,High,0.25,Lease,High
+Michael Ramirez,55,Male,Holiday representative,22999,25621,764,2,40780,High,0.38,Own,Low
+Claudia Wilkins,62,Female,Broadcast presenter,71543,35791,645,1,24497,Medium,0.11,Lease,Medium
+Denise Wilson,44,Female,"Scientist, product/process development",79412,12945,790,2,5207,High,0.38,Own,Low
+Stephanie Cox,30,Male,Futures trader,25345,37962,514,0,31837,Low,0.32,Own,High
+Emma Richardson,23,Male,Environmental education officer,44494,8924,365,1,6832,Low,0.33,Lease,Medium
+Dylan Anderson,62,Female,"Psychologist, sport and exercise",92472,26664,787,1,17296,Medium,0.4,Own,Medium
+Carolyn Clark,20,Female,Rural practice surveyor,68409,15670,567,1,6571,High,0.38,Own,Low
+Eric Shaw,29,Female,Commercial/residential surveyor,81801,32972,805,0,15184,Low,0.03,Own,Medium
+Carla Johnson,37,Male,Education administrator,30025,5725,769,2,37423,High,0.0,Lease,High
+Jessica Taylor,19,Female,Prison officer,93580,39719,438,0,47989,Low,0.15,Lease,High
+Jeremy Hobbs,41,Male,"Research officer, government",21788,28938,816,0,39103,High,0.21,Lease,Low
+Marvin Brown,56,Male,Licensed conveyancer,69197,16374,473,2,35847,High,0.02,Lease,Medium
+Sharon Ray,54,Male,Seismic interpreter,20759,19003,572,1,25363,High,0.29,Lease,Low
+Jessica Cook,58,Female,"Engineer, civil (consulting)",93375,10151,349,1,32353,High,0.31,Own,Medium
+Kelly Lane,36,Male,"Civil engineer, contracting",47887,32511,456,2,30452,High,0.32,Own,High
+Tiffany Harris,24,Female,"Scientist, product/process development",30458,9432,479,2,47344,High,0.13,Own,High
+Bethany Newton,22,Male,Environmental health practitioner,68578,27578,455,0,14270,Low,0.24,Own,Low
+Jerry Hull,62,Male,"Horticulturist, amenity",45938,19819,467,0,47687,Medium,0.4,Own,Low
+Melissa Mckenzie,47,Male,Occupational hygienist,55382,18645,496,0,28237,Low,0.1,Lease,Medium
+Jessica Pierce,38,Female,"Education officer, community",91093,5315,590,0,34031,Low,0.33,Own,Low
+Wesley Ferguson,22,Female,Retail manager,36976,27964,680,0,25210,Medium,0.16,Lease,Low
+Joel Murillo,63,Male,Dealer,42781,20854,621,2,24053,Medium,0.37,Own,Medium
+Belinda Williams,33,Male,"Engineer, chemical",83623,8473,631,2,16044,Low,0.0,Own,Low
+Kenneth Graves MD,53,Female,Dramatherapist,87878,35376,502,0,33155,High,0.36,Lease,Low
+Christina Salazar,19,Male,Armed forces training and education officer,73335,20249,394,1,24029,Low,0.34,Lease,High
+Katherine Carter,18,Male,Audiological scientist,72077,6469,647,2,33288,High,0.0,Lease,Low
+James Schultz,36,Male,Phytotherapist,57539,11135,337,0,11049,Low,0.21,Own,High
+Lindsey Smith,34,Female,Water engineer,41938,32544,828,0,9132,High,0.29,Lease,Medium
+Lisa Bryant,29,Female,Art therapist,59908,18410,325,1,15981,Low,0.04,Own,Low
+James Suarez,36,Female,Trade mark attorney,80011,19503,305,0,27132,High,0.37,Own,Low
+Michael Ochoa,62,Male,Educational psychologist,74251,38145,771,1,31723,High,0.18,Lease,Low
+Thomas Dawson,35,Female,Lexicographer,54889,16570,804,1,22980,High,0.31,Own,Medium
+Johnny Richardson,35,Male,Photographer,38848,20253,739,0,43786,Low,0.38,Own,Low
+John Hood,45,Male,Radio broadcast assistant,57802,38645,539,1,25900,Low,0.23,Lease,High
+Shannon Banks,58,Male,Optometrist,40326,20761,441,2,28954,High,0.37,Own,Medium
+James Vazquez,45,Male,"Surveyor, quantity",25180,34481,489,0,40810,Medium,0.17,Lease,Low
+Eddie Kramer,32,Female,Corporate investment banker,29311,29892,652,0,43707,Medium,0.37,Own,High
+Matthew Rivera,49,Female,Medical secretary,81570,13949,676,0,16512,High,0.31,Own,High
+Donna Jefferson,27,Female,Control and instrumentation engineer,59703,5141,849,0,15210,Medium,0.28,Lease,Low
+Adam Ward,54,Female,Public relations account executive,95915,6352,427,1,44861,High,0.38,Lease,High
+Colleen Ward,26,Male,"Lighting technician, broadcasting/film/video",35468,25874,547,0,33355,High,0.21,Own,Medium
+Michael Schultz,31,Female,Ship broker,41716,33905,418,2,30026,Medium,0.12,Own,Medium
+Matthew Ramirez,27,Male,"Scientist, research (physical sciences)",21927,34314,480,2,45640,Medium,0.35,Own,Low
+Steve Benton,36,Female,"Conservator, furniture",80841,26353,460,2,16630,High,0.09,Lease,Low
+Debra Matthews,51,Female,Waste management officer,59292,16739,704,1,40428,Low,0.02,Lease,Medium
+Lisa Moreno,60,Female,Multimedia specialist,61809,18339,744,0,27145,High,0.11,Lease,High
+Tanner Warner,19,Male,"Engineer, structural",94126,6163,716,2,12823,High,0.38,Own,High
+Casey Olson,39,Male,Prison officer,70117,37907,728,0,20314,Low,0.32,Lease,Medium
+Brooke Chan,23,Female,Theatre director,38494,25594,751,2,10055,Medium,0.13,Lease,Medium
+Cindy Montes,60,Female,Media planner,63608,28479,306,2,42027,High,0.25,Own,High
+Becky Lewis,40,Female,Recruitment consultant,75874,32991,685,2,8222,Low,0.21,Lease,Low
+Brandon Thomas,36,Male,"Investment banker, corporate",99707,10799,361,1,44302,Medium,0.11,Lease,Medium
+Bradley Bennett,27,Female,Production engineer,30877,10241,444,1,22307,High,0.36,Lease,Medium
+Michael Stanley,21,Male,Scientific laboratory technician,25584,24170,300,2,26338,Low,0.23,Own,High
+Jesse Kirk,39,Male,Electrical engineer,25414,34738,582,2,21321,Low,0.03,Lease,Medium
+Gregory Wallace,41,Female,"Social research officer, government",94224,34758,596,1,45599,Medium,0.07,Lease,High
+Lori Phillips,20,Male,Barrister's clerk,90221,38162,619,1,20246,High,0.18,Own,Low
+Michelle Bullock,23,Male,"Surveyor, insurance",37911,9992,739,0,36714,Low,0.35,Lease,Medium
+John Underwood,44,Female,Contracting civil engineer,21120,22809,566,2,30964,Medium,0.34,Own,High
+Brian Conrad,35,Male,Private music teacher,33449,13173,671,0,20206,Medium,0.21,Lease,Medium
+Dustin Jones,20,Female,Media planner,28666,17758,760,0,7172,Low,0.22,Lease,Low
+Scott Bishop,55,Male,Rural practice surveyor,21863,19168,412,2,39342,Medium,0.31,Lease,High
+Timothy Robertson,20,Female,"Engineer, control and instrumentation",65223,28662,694,2,21068,High,0.15,Lease,Medium
+Zoe Grimes,38,Male,Ecologist,74057,37657,411,1,21649,High,0.36,Lease,Medium
+Danielle Lowe,36,Female,Midwife,71825,28036,564,0,29569,Low,0.02,Lease,Medium
+Zachary Ortiz,38,Female,Transport planner,25606,25515,633,2,10901,Medium,0.07,Lease,Medium
+Isabel Henry,37,Male,Trade mark attorney,43117,25079,310,2,26461,Low,0.05,Own,Low
+Jared Webb,31,Male,"Conservation officer, historic buildings",38869,28560,356,1,14489,Low,0.07,Lease,Medium
+Holly Wolfe,44,Female,Applications developer,44347,27864,666,0,6506,Low,0.0,Own,High
+Marie Waters,26,Male,Horticultural consultant,56686,5288,782,1,18751,High,0.24,Lease,High
+Valerie Harper,61,Female,Retail manager,53667,25190,775,1,24522,Medium,0.01,Own,Medium
+Ronald Carrillo,35,Male,Geographical information systems officer,89741,33487,618,1,14514,Low,0.29,Lease,Low
+Alexis Phillips,47,Female,"Biochemist, clinical",55028,11085,678,1,16680,High,0.25,Lease,Low
+Angela Ramirez,25,Male,Nature conservation officer,96297,19352,638,0,13269,Medium,0.38,Lease,Medium
+Carrie Owen,57,Male,Theatre director,80548,14843,352,2,14364,Medium,0.23,Lease,High
+Jason Ward,40,Male,Petroleum engineer,46809,29611,500,1,30927,Medium,0.11,Own,Medium
+Kimberly Davidson,36,Female,Midwife,58710,32910,823,2,14189,High,0.2,Lease,Medium
+Richard Lewis,31,Male,"Conservator, furniture",83640,21021,775,1,37775,Low,0.15,Lease,Medium
+Daniel Williams,31,Female,Dispensing optician,83706,29335,640,2,35846,Low,0.37,Lease,High
+Morgan Lee,56,Male,Careers information officer,74254,35427,842,2,23788,High,0.06,Own,Medium
+Christina Hood,28,Male,"Investment banker, operational",36363,22655,655,0,25863,High,0.37,Lease,Medium
+Derrick Dyer,63,Male,"Engineer, technical sales",91963,8439,537,2,38630,High,0.09,Lease,Low
+Crystal Soto,60,Male,"Social research officer, government",40109,7836,490,1,28309,Low,0.17,Lease,Medium
+Julian Wagner,28,Male,Estate manager/land agent,94142,22748,593,0,34318,Low,0.0,Own,Low
+Michael Wilson,21,Female,"Engineer, structural",38963,13181,328,0,48662,Low,0.37,Own,Medium
+Sean Miller,43,Male,Fitness centre manager,25633,36493,819,2,41279,Medium,0.08,Own,Medium
+Mrs. Megan Rivera,35,Female,Travel agency manager,78123,29804,823,2,27978,High,0.26,Own,Low
+Michael Murphy,55,Female,Armed forces operational officer,44224,13936,711,1,34126,Low,0.37,Lease,Medium
+James Brock,44,Male,Animal technologist,90006,5105,340,0,27448,High,0.26,Own,Low
+Eric Cabrera,37,Female,Printmaker,38552,26724,633,1,35285,High,0.37,Lease,Medium
+David Murphy,57,Male,Animator,46583,5836,558,0,32757,Low,0.13,Own,High
+Keith Frederick,64,Female,"Accountant, chartered certified",67087,30203,839,2,45387,Low,0.06,Lease,Medium
+Carolyn Martin,39,Male,"Education officer, environmental",55752,22302,496,0,20115,Medium,0.13,Lease,High
+Kathryn Clay,54,Female,Archaeologist,42025,34912,569,0,36364,Low,0.0,Lease,Low
+Mary Walker,43,Female,Environmental consultant,82285,7645,797,0,40205,Medium,0.38,Lease,Medium
+Karen Duke,19,Male,Museum/gallery exhibitions officer,73977,5091,459,1,10469,High,0.16,Lease,High
+Linda Durham,45,Female,Advice worker,26043,31706,494,1,37809,High,0.17,Lease,High
+Darren Bradley,39,Female,Dietitian,88712,32450,837,2,8717,Low,0.04,Own,Low
+Dwayne Brown,46,Male,"Education officer, environmental",60963,29281,616,2,19984,Low,0.14,Lease,High
+Laura Parker,50,Male,"Runner, broadcasting/film/video",81692,6164,390,2,15594,High,0.36,Lease,Medium
+Linda Brooks,60,Female,Research scientist (medical),53015,9116,586,0,25175,High,0.33,Lease,Low
+Mr. Alexander Fields,46,Male,Musician,79829,39354,564,1,10912,Medium,0.29,Own,High
+Jordan Obrien,41,Male,"Geologist, wellsite",63985,38046,419,1,35970,Medium,0.31,Own,High
+Mr. Charles Huffman,35,Female,"Civil engineer, contracting",53470,31818,623,1,42977,High,0.05,Own,Low
+Anne Ray,27,Female,Call centre manager,69126,37869,418,0,33650,Low,0.19,Own,Low
+Deanna Kim,20,Male,"Engineer, electrical",56913,33656,455,2,33481,Low,0.25,Lease,Low
+Michael Holmes,32,Female,Pathologist,39677,36687,556,1,38291,Medium,0.37,Lease,Low
+Adrian Porter,39,Female,Barista,72839,8570,840,1,8056,Low,0.09,Own,High
+Timothy Koch,51,Female,Geophysicist/field seismologist,65833,5154,821,2,23293,High,0.12,Lease,Medium
+Cristina Henry,37,Male,Travel agency manager,36290,38064,618,0,30680,Low,0.25,Lease,Low
+Jason Wiggins,46,Female,Logistics and distribution manager,89707,38755,641,1,15145,Low,0.16,Own,Medium
+Kristin Peters,24,Male,Records manager,23779,8628,542,0,39545,Medium,0.08,Lease,Low
+Eric Phillips,22,Female,"Designer, fashion/clothing",70631,10602,792,0,27191,Low,0.24,Lease,High
+Brian Lyons,60,Female,Transport planner,62008,13515,359,1,49237,High,0.26,Lease,Low
+Bethany Robinson,20,Female,Writer,83646,25905,807,2,10170,High,0.3,Own,Medium
+Rebecca Cameron,48,Male,Naval architect,29747,36543,509,1,22964,High,0.4,Lease,Low
+Traci Wagner MD,29,Male,Claims inspector/assessor,87680,7258,715,0,23514,High,0.31,Own,Low
+Michael Serrano,34,Female,Counsellor,90480,29395,369,2,7436,Low,0.01,Lease,Medium
+Katrina Hopkins,40,Female,Investment analyst,75314,8434,644,0,19675,Medium,0.0,Own,Low
+Laura Cruz,62,Male,"Engineer, energy",89677,11260,455,2,49648,High,0.28,Lease,Low
+Timothy Wheeler,26,Female,"Administrator, Civil Service",73042,19860,417,1,34882,Medium,0.35,Lease,Medium
+Jesus Mack,28,Male,"Secretary, company",34646,14944,623,2,45375,Medium,0.2,Own,Medium
+Sherri Sharp,36,Male,Probation officer,26213,37813,556,1,41692,High,0.02,Lease,Medium
+Anthony Crawford,40,Female,Licensed conveyancer,45883,10306,658,0,19560,High,0.13,Own,Low
+Brianna Villarreal,32,Female,Aeronautical engineer,23450,6034,758,0,30561,Medium,0.07,Lease,Medium
+Clifford Dominguez,52,Male,Podiatrist,80099,11833,338,0,16078,High,0.17,Own,Medium
+Joshua Edwards,33,Female,Lobbyist,53751,12200,621,2,31495,Low,0.36,Lease,Medium
+Nicole Fisher,22,Male,Plant breeder/geneticist,72750,32561,343,0,30669,Medium,0.2,Own,High
+Michael Crane,57,Female,Local government officer,51599,22081,441,0,17799,High,0.15,Own,High
+Heather Berg,41,Male,"Runner, broadcasting/film/video",65924,18497,568,2,16164,Medium,0.06,Lease,Medium
+Richard Byrd,48,Male,Special effects artist,73379,27515,733,0,19236,Low,0.34,Own,Low
+Corey Diaz,48,Male,Consulting civil engineer,30361,7105,706,1,22219,High,0.23,Lease,Medium
+Shannon Pittman,29,Female,Agricultural consultant,74918,7168,675,2,29264,High,0.15,Lease,Medium
+Mark Hunter,59,Female,"Nurse, children's",56395,15172,782,1,28864,Medium,0.07,Lease,High
+Jaime Hudson,61,Female,Retail manager,48832,29105,336,2,16554,High,0.33,Own,Low
+Erika Reynolds,39,Male,Computer games developer,60323,25510,313,0,40502,Low,0.01,Own,Low
+Paul Moore,38,Male,Sports coach,24679,23491,680,0,46507,Low,0.14,Lease,Low
+Scott Whitaker,57,Female,Product manager,67439,16190,325,1,27864,Medium,0.02,Lease,Low
+Jennifer Hood,53,Male,"Engineer, electrical",61422,33538,582,0,34028,Low,0.08,Lease,Medium
+Jason Clark,60,Female,"Scientist, marine",29830,23541,398,1,25969,Low,0.22,Lease,Low
+Mrs. Amanda Barr,37,Male,Chartered certified accountant,57056,38117,723,2,5263,Medium,0.25,Lease,Medium
+Melissa Melton,32,Female,Electrical engineer,72674,34593,796,2,24222,Medium,0.14,Own,Low
+Felicia Hunter,29,Female,Community arts worker,70849,23163,345,0,41976,Medium,0.36,Own,High
+Nicholas Miller,45,Male,Translator,48038,33162,677,0,9673,High,0.38,Own,High
+Kristen Brown,38,Female,"Scientist, audiological",29796,34559,386,1,31944,Medium,0.32,Own,High
+Joan Turner,64,Female,Clinical embryologist,34033,23009,317,1,47640,High,0.22,Own,High
+Brett Castillo,39,Male,Medical laboratory scientific officer,91343,6217,437,2,37111,Low,0.08,Own,Medium
+Crystal Cardenas,47,Female,"Education officer, community",72699,16477,839,1,12829,Low,0.13,Lease,Medium
+Daniel Anderson,19,Male,Fish farm manager,46294,34032,397,1,39096,High,0.19,Lease,High
+Tyler Perkins,47,Male,Nutritional therapist,57400,33519,488,0,33550,Medium,0.36,Lease,Low
+Lisa Roach,59,Male,"Research officer, government",22223,16919,496,2,6642,High,0.05,Lease,High
+Richard Orozco,23,Male,Retail manager,67073,30916,386,0,41795,Low,0.0,Lease,Low
+Jennifer Guerra,46,Female,Geochemist,40871,29207,758,1,5370,High,0.26,Lease,Medium
+Zachary Pace,22,Male,IT consultant,52720,36234,415,0,28904,Medium,0.36,Lease,Medium
+Shawn Thompson,57,Female,Air broker,31303,13884,400,2,5620,High,0.23,Lease,High
+Jennifer Wright,28,Male,Occupational therapist,73268,9601,516,1,43125,High,0.08,Own,High
+Thomas Branch,53,Male,"Surveyor, insurance",94868,22659,499,2,25160,Medium,0.26,Lease,Low
+Ashley Short,23,Female,Arts development officer,64610,10742,741,2,9186,High,0.29,Lease,Low
+Cassandra Mclaughlin,39,Female,Careers information officer,61633,10587,645,1,7236,Low,0.08,Own,Medium
+Tonya Shepard,58,Female,"Surveyor, building control",52565,37277,346,0,13060,Medium,0.17,Own,High
+Kelsey Brooks,64,Female,"Librarian, academic",29034,9390,799,0,12402,Low,0.31,Lease,Low
+Ann Whitaker,22,Female,"Surveyor, hydrographic",34214,28226,349,2,25325,Medium,0.18,Lease,Medium
+Lori Moore,40,Female,Technical brewer,51932,6626,608,1,26574,Medium,0.27,Own,High
+Joshua Jacobs,58,Female,Tax inspector,65180,15279,732,2,18071,Low,0.23,Own,High
+Debra Lindsey,30,Female,Tourist information centre manager,20309,17138,771,2,12887,High,0.32,Own,High
+Richard Johnson,58,Female,Agricultural engineer,20099,15816,342,2,31399,Low,0.38,Own,High
+Jordan Rivera,33,Female,Hydrogeologist,65990,26050,484,2,17482,Low,0.12,Own,Low
+Sean Ward,32,Male,Civil Service administrator,36214,7760,339,2,28872,Medium,0.27,Own,Medium
+Edward Townsend,57,Female,Jewellery designer,47049,33657,356,0,41652,High,0.39,Lease,High
+Jerome Chaney,63,Female,Water quality scientist,29578,23263,556,0,48311,High,0.15,Lease,High
+Annette Thompson,32,Male,Mining engineer,52832,6996,326,1,24120,High,0.11,Lease,Medium
+William Thomas,60,Male,"Solicitor, Scotland",24130,10229,785,1,21067,Medium,0.26,Own,High
+Kyle Reyes MD,37,Male,Chief Operating Officer,30109,8676,765,1,23427,High,0.32,Lease,Medium
+Luis Hurst,21,Female,"Doctor, hospital",62328,13983,672,0,15391,Medium,0.15,Lease,Medium
+Jason Thompson,42,Female,Tour manager,23687,37714,401,0,31590,High,0.33,Lease,Medium
+Valerie Green,21,Male,Manufacturing systems engineer,43443,13793,346,1,40774,High,0.1,Own,Low
+Darrell Pittman,25,Female,Actuary,65123,11535,759,1,12944,Low,0.07,Lease,High
+Alexander Perez,63,Female,Television floor manager,29708,30636,306,2,49192,Medium,0.38,Lease,Low
+John Deleon,22,Female,"Pharmacist, community",46439,26971,698,1,44813,High,0.34,Own,Medium
+Marie Vega,18,Male,Media buyer,26492,36776,321,2,23920,Low,0.25,Own,High
+Terri Monroe,25,Female,Veterinary surgeon,75836,11067,837,2,27835,Low,0.19,Own,Low
+Jennifer Hall,55,Male,Actuary,33164,23853,704,1,48502,Low,0.11,Own,Medium
+Angela Miller,34,Male,Neurosurgeon,21220,7855,837,2,31295,Low,0.09,Lease,Low
+Latoya Hernandez,58,Male,"Designer, fashion/clothing",27690,37409,585,1,7565,High,0.38,Lease,High
+Michele Gomez,55,Male,Dietitian,20414,30766,380,1,9909,Low,0.26,Own,High
+Jacob Moody,43,Male,"Psychologist, occupational",82274,20593,455,0,40722,Medium,0.37,Own,Low
+Elizabeth Keller,44,Male,IT technical support officer,77638,13797,532,2,47729,Medium,0.24,Own,Medium
+Lori Diaz,56,Male,"Education officer, museum",40583,18601,386,1,22713,Low,0.23,Own,Low
+Chelsea Silva,48,Male,Geoscientist,78733,9848,476,2,46201,High,0.27,Own,Low
+Christina Jones,24,Female,Records manager,81787,25817,467,0,36583,High,0.37,Own,Medium
+Daniel Goodman,62,Female,Information officer,93621,11460,559,0,44394,Medium,0.38,Own,Medium
+Sarah Monroe,18,Male,Technical sales engineer,67608,6754,804,2,21352,Medium,0.03,Lease,Low
+Denise Townsend,56,Male,Rural practice surveyor,37997,8112,714,0,27092,Low,0.16,Own,High
+Juan Alvarado,59,Female,Local government officer,64698,9059,543,2,26637,Medium,0.17,Lease,Low
+Jennifer Smith,64,Female,Illustrator,33740,14997,801,1,16935,Low,0.12,Own,Medium
+Jackie Johnson,32,Male,Information officer,30000,37701,770,1,33178,High,0.19,Own,Low
+Taylor Johnson PhD,53,Female,IT consultant,39494,39397,503,1,36405,Low,0.03,Lease,Medium
+Brandon Roman,35,Female,Structural engineer,42652,8807,831,2,45333,Medium,0.06,Lease,Medium
+Kendra Richardson,36,Female,"Embryologist, clinical",40760,6437,569,1,39833,High,0.32,Own,High
+Matthew Watts,26,Male,"Buyer, industrial",80003,10917,475,0,8711,Medium,0.17,Lease,Low
+Jonathan Gross,40,Male,Pathologist,30207,38326,428,0,15291,High,0.11,Lease,Low
+Jason Jacobs,60,Male,"Designer, furniture",85902,37021,376,2,39594,High,0.09,Lease,High
+Garrett Munoz,25,Male,Publishing copy,34681,12217,528,2,30918,Medium,0.23,Lease,Medium
+Joseph Coleman,24,Female,"Teacher, secondary school",24889,25068,616,2,7621,High,0.16,Own,High
+Garrett Welch,62,Male,Arts administrator,99576,28856,811,1,20020,High,0.3,Own,Low
+Jessica Jones,34,Female,Travel agency manager,61583,11861,757,2,22789,High,0.05,Own,Medium
+Sophia Thompson,33,Male,Meteorologist,94807,29393,800,0,25105,Medium,0.33,Own,Medium
+Linda Sullivan,37,Female,Analytical chemist,31246,30573,479,2,37070,Low,0.29,Lease,Medium
+Melanie Nelson,51,Male,Clinical psychologist,69952,5440,633,0,29453,High,0.21,Lease,Low
+George Owen,20,Male,"Therapist, music",23608,5071,514,2,21774,Medium,0.13,Lease,Medium
+Alyssa Mcintosh,30,Female,Museum/gallery curator,74561,15464,391,1,16710,Medium,0.22,Own,Low
+Cory Harris,53,Male,Advertising copywriter,62013,14654,456,0,15828,Medium,0.24,Own,Medium
+Megan Mccullough,29,Female,"Administrator, arts",38140,28101,612,2,33748,Low,0.17,Own,High
+Gary Hall,55,Male,Civil Service administrator,44352,11023,769,2,10117,High,0.08,Own,High
+Leslie Johnson,58,Male,Dietitian,85483,5089,315,0,21640,High,0.26,Own,Medium
+Elijah Wall MD,64,Female,Furniture conservator/restorer,97178,16735,662,2,43653,Medium,0.35,Lease,Medium
+Michelle Green,39,Female,Trade mark attorney,73053,28513,722,1,49794,High,0.03,Own,Medium
+Jason Oliver,37,Male,Field seismologist,28573,19591,625,2,24225,Low,0.07,Lease,High
+Carolyn Powell,28,Female,Tree surgeon,50918,29267,817,0,31644,Low,0.38,Own,High
+William Gibson,22,Female,English as a foreign language teacher,65015,35416,593,2,44146,Low,0.1,Lease,Medium
+Micheal Mayo,38,Male,Police officer,41811,5609,487,1,11700,Medium,0.38,Lease,Low
+Chelsea Robinson,23,Female,Television/film/video producer,79619,24868,550,2,34713,Low,0.39,Own,Low
+April Preston,49,Male,Comptroller,58680,22143,473,0,47024,Low,0.39,Lease,Medium
+Jamie Willis MD,33,Female,Insurance broker,46638,24037,391,0,7838,High,0.14,Own,Medium
+Jeffery Moss,37,Female,Special effects artist,21040,15832,431,0,31579,Low,0.14,Lease,High
+Paul Jordan,62,Female,Location manager,65417,33217,677,2,36096,Low,0.27,Lease,High
+Patrick Walton,21,Male,Freight forwarder,31741,22410,501,2,6846,Low,0.22,Lease,Low
+Christopher Peters,38,Female,"Designer, industrial/product",62348,20936,331,1,23183,High,0.31,Lease,Medium
+Cynthia Ward,38,Female,"Designer, jewellery",29739,18486,391,0,10849,High,0.14,Lease,High
+Derrick Bass,53,Male,Associate Professor,82364,12320,613,2,7307,Medium,0.39,Lease,Low
+Joseph Harrison,34,Male,"Psychologist, sport and exercise",45002,22806,516,0,18984,Medium,0.21,Lease,Low
+Natalie Porter,34,Female,"Production designer, theatre/television/film",87155,15420,494,2,11556,Low,0.21,Own,Low
+Mary Wilson,32,Male,Public relations account executive,98056,18364,498,1,5850,Medium,0.27,Lease,High
+Bryan Campos,29,Female,"Engineer, site",20293,16413,515,2,7351,High,0.04,Lease,Low
+Ruth Castro,39,Male,Holiday representative,76707,31525,311,1,46119,High,0.32,Lease,High
+Barbara Alexander,54,Male,"Therapist, occupational",25020,36717,347,1,7655,Medium,0.38,Lease,High
+Daniel Frazier,64,Male,Economist,65755,8531,303,1,38854,High,0.11,Lease,High
+Melanie Hebert,25,Female,"Scientist, biomedical",35741,24412,410,1,34964,Low,0.21,Lease,Medium
+Bradley Martinez,49,Male,Scientific laboratory technician,63650,17765,306,2,5189,High,0.04,Own,High
+Brittany Hartman,31,Female,Seismic interpreter,77312,33713,502,0,22545,Medium,0.12,Own,Medium
+Chad Rowe,41,Female,Advertising copywriter,81555,24495,442,1,46985,High,0.12,Own,Low
+Jose Dudley,23,Female,Chief Marketing Officer,94997,36044,623,1,16232,Low,0.31,Own,Medium
+Gregory Reid,54,Female,Corporate treasurer,89723,28205,576,2,46101,Low,0.37,Own,Low
+Sarah Green,64,Male,Aid worker,68958,13349,560,2,14674,High,0.33,Own,Low
+Mark Thomas,57,Male,Banker,99909,33440,430,0,46670,High,0.03,Own,Medium
+Sarah Schmidt,30,Female,Warden/ranger,51340,38734,626,0,29731,High,0.27,Own,Medium
+Mary Duarte,19,Female,"Engineer, control and instrumentation",43036,29693,787,2,21109,High,0.34,Own,High
+Jasmine Valdez,21,Male,Environmental health practitioner,48674,21589,720,1,7079,High,0.23,Lease,Low
+Alyssa Lewis,31,Male,Health physicist,81804,11623,680,1,23509,High,0.27,Lease,Medium
+Todd Santiago,52,Male,"Pharmacist, hospital",68325,7337,603,0,46972,High,0.23,Lease,High
+Alison Allen,18,Female,Medical secretary,36285,13937,777,2,36377,Medium,0.16,Lease,High
+Ethan Blackburn,60,Male,Marketing executive,81008,12426,823,2,12616,High,0.03,Own,High
+Cassie Hughes,51,Female,Optometrist,56260,36810,768,2,11436,Low,0.17,Lease,Low
+Cheryl Williams,50,Female,"Designer, ceramics/pottery",73040,22140,413,0,13939,Low,0.2,Own,Medium
+Christopher Wu,38,Male,Actor,76975,10183,673,1,45365,High,0.28,Own,High
+Grace Li,34,Male,Holiday representative,28843,31306,403,0,26260,Low,0.05,Lease,Medium
+Stephanie Garcia,20,Female,"Engineer, electronics",31938,21269,734,0,45892,High,0.18,Lease,High
+Breanna Ellis,57,Female,Colour technologist,78043,13161,318,1,6239,Medium,0.32,Lease,Medium
+John Drake,32,Female,Video editor,95010,33973,792,0,9512,Low,0.37,Lease,High
+Jacob Solis,18,Male,Hospital doctor,52305,30222,519,2,37109,High,0.23,Lease,Medium
+Francisco Johnson,46,Female,Commercial art gallery manager,35345,28867,357,0,5985,Medium,0.36,Lease,Medium
+Sara Davis,60,Female,Textile designer,28969,13402,825,1,35043,Low,0.02,Own,High
+Kristen Anderson,64,Female,Optometrist,84858,16820,406,2,14378,Low,0.07,Own,High
+Jamie Simpson,24,Male,Research scientist (medical),60757,17871,620,2,37416,Medium,0.19,Own,High
+Barbara Perez,34,Female,Corporate treasurer,50734,36790,391,1,30303,Medium,0.04,Lease,High
+John Carney,42,Female,Marketing executive,79487,15356,353,2,19632,High,0.26,Lease,Low
+Nicholas Johnson,28,Male,IT consultant,56936,26673,517,0,12392,High,0.08,Lease,High
+Rachel Walton,33,Female,Newspaper journalist,82151,31172,803,0,17458,High,0.22,Own,High
+Luis Brown,28,Male,Further education lecturer,24185,31109,345,1,15986,Low,0.27,Own,Low
+Jody Andrade,31,Female,Systems developer,75792,33645,367,1,33264,Low,0.14,Own,Low
+Rebekah Hernandez,37,Male,Legal secretary,57632,23798,619,1,10042,High,0.22,Lease,Low
+Tonya Miller,36,Male,Broadcast engineer,29471,21069,414,0,21564,Medium,0.38,Lease,High
+Audrey Smith,58,Female,Insurance risk surveyor,30514,17965,357,0,44126,High,0.1,Lease,Low
+Douglas Martinez,19,Female,Forensic psychologist,29076,38665,380,2,40833,Medium,0.07,Own,Low
+Timothy Perez,49,Female,Trade mark attorney,74382,25054,351,0,47705,High,0.38,Lease,Low
+Brett Mathews,36,Female,"Nurse, mental health",75641,22430,624,0,25466,Low,0.23,Own,High
+Michael Martin,41,Female,Pensions consultant,82347,16004,394,2,40091,Low,0.18,Own,Medium
+James Richardson,26,Female,Podiatrist,31506,27297,450,2,31872,Medium,0.4,Own,Low
+Kyle Curtis,58,Female,"Programmer, systems",99519,20810,535,2,22761,High,0.03,Own,Medium
+Phillip Stewart,45,Male,Product manager,75493,24071,402,1,44387,Medium,0.39,Own,High
+Alicia Coleman,18,Male,Customer service manager,84120,28667,515,1,46977,Medium,0.33,Own,High
+Jacob Greene,48,Male,"Horticulturist, amenity",57268,10805,552,0,34302,High,0.23,Lease,Medium
+Steve Bowman,55,Male,Biomedical scientist,48282,30696,695,2,28938,Low,0.39,Lease,High
+Mary Martin,19,Female,"Exhibitions officer, museum/gallery",84414,5257,560,1,22828,Medium,0.03,Lease,Medium
+Jessica Gordon,45,Female,"Conservator, furniture",27041,17397,461,2,32551,Low,0.24,Own,High
+Mark Johnson,29,Male,Music therapist,25785,37614,566,0,42166,Medium,0.34,Lease,Medium
+Whitney Carter,46,Female,Restaurant manager,60939,13253,345,1,7105,High,0.38,Own,High
+Matthew Carpenter,19,Female,"Therapist, horticultural",30921,15905,531,0,32671,Medium,0.2,Lease,High
+Don Johnson,33,Male,Financial adviser,86207,12106,421,0,15394,Medium,0.11,Own,High
+Matthew Perez,18,Male,Risk manager,48656,31292,521,2,37031,Low,0.35,Own,Low
+Patrick Flores,35,Female,Aid worker,93462,6480,315,2,11175,High,0.16,Own,Low
+Barbara Herrera,43,Male,Solicitor,21597,15865,591,2,26754,Medium,0.18,Own,Medium
+Mark Daniels Jr.,44,Male,Child psychotherapist,43205,36853,806,1,6992,High,0.22,Own,Medium
+Devin Smith,53,Male,Aid worker,51127,37755,642,2,47374,Low,0.2,Lease,Medium
+Joseph Johnson,29,Male,Chartered legal executive (England and Wales),40411,24576,646,1,24312,Low,0.23,Lease,Low
+Mark Waters,48,Male,Insurance claims handler,76547,20025,656,0,44805,Medium,0.28,Lease,Low
+Mark Allen,20,Female,Intelligence analyst,22939,15205,398,1,12955,Medium,0.19,Lease,Low
+Danny Mueller,49,Male,Accounting technician,31285,17376,408,1,44052,Medium,0.23,Lease,High
+Sean Bauer,36,Female,Learning disability nurse,23044,33920,746,2,27253,Medium,0.34,Own,Low
+Tonya Morris,31,Male,Operational investment banker,41211,34269,503,1,24480,High,0.31,Lease,Low
+Jacob Adams,48,Male,Fine artist,82668,21090,605,0,36860,Medium,0.05,Own,High
+Matthew Smith,18,Female,Armed forces technical officer,53337,28151,721,2,25051,Low,0.01,Lease,Medium
+Kelly Wilson,19,Male,Sales promotion account executive,81999,5401,328,1,14380,High,0.17,Own,Medium
+John Conrad,48,Female,"Surveyor, hydrographic",69560,33228,412,0,33671,Medium,0.05,Lease,High
+Kevin Flores,37,Female,Accounting technician,88100,34483,331,1,44796,High,0.05,Lease,Low
+Jonathan Little,35,Female,Orthoptist,34290,16994,360,2,9625,Low,0.37,Own,Low
+Melissa Hart,45,Male,Marine scientist,21964,36170,499,0,7584,Low,0.29,Own,Low
+Lisa Miller,37,Male,"Embryologist, clinical",99928,7922,424,0,25866,Medium,0.05,Lease,Low
+Lisa Patel,55,Female,Jewellery designer,85985,25895,343,0,21861,High,0.1,Lease,Low
+Shane Ryan,22,Female,Chartered management accountant,30039,31248,637,1,16178,Medium,0.03,Own,Medium
+Douglas Arnold,60,Male,Passenger transport manager,82216,28593,729,1,11964,High,0.18,Own,Low
+Christina Brown,31,Female,Web designer,68922,23848,656,2,49181,High,0.15,Own,Low
+Bradley Hill,26,Male,Camera operator,36866,14379,307,0,27853,Medium,0.01,Own,High
+Robert Bauer,53,Female,"Scientist, biomedical",33981,14848,338,1,40816,Low,0.22,Own,High
+Randall Newton,25,Female,Outdoor activities/education manager,80176,18329,386,2,20530,Medium,0.2,Own,High
+Danielle Foster,62,Male,"Surveyor, building control",65414,12428,412,0,30087,High,0.01,Lease,Low
+Vanessa Rose,51,Male,"Designer, television/film set",64579,12009,449,2,41864,Medium,0.33,Lease,Medium
+Lisa Hansen MD,34,Female,"Designer, interior/spatial",83359,5245,573,1,9514,Medium,0.07,Lease,Low
+Matthew King,32,Female,Police officer,81159,32306,681,0,15125,High,0.16,Own,Medium
+Anthony Smith MD,51,Male,Industrial/product designer,52627,32958,405,1,47961,Low,0.15,Lease,High
+Amber Padilla,22,Male,Quality manager,55879,20879,432,2,9010,High,0.33,Own,Low
+Rebekah Martinez,36,Male,Psychiatrist,91801,11838,735,2,29477,High,0.36,Own,Low
+Nathaniel Brown,41,Female,Sales promotion account executive,74769,29203,795,2,24413,Low,0.21,Lease,Low
+Brian Mitchell,21,Male,"Engineer, agricultural",49899,23565,511,0,31830,Low,0.36,Own,High
+Nicholas Bautista,19,Male,Public relations account executive,45789,31119,627,1,41857,High,0.2,Lease,High
+Mark Willis,28,Female,Cartographer,60842,31674,637,0,33016,Medium,0.26,Lease,High
+Kent Carpenter,46,Female,Music therapist,55802,36221,807,1,16085,High,0.39,Own,High
+Tamara Spears,42,Female,"Geologist, wellsite",72340,21226,600,0,8951,Low,0.39,Lease,Low
+Robert Thompson,62,Female,"Producer, television/film/video",36180,28596,429,2,17835,Low,0.27,Own,High
+Paul Roberts,26,Female,Sports coach,57872,19992,440,1,39676,Low,0.39,Own,High
+Aaron Smith,52,Female,Seismic interpreter,55377,34335,534,0,45581,Low,0.36,Own,Low
+Gabriel Bishop,54,Male,Trade union research officer,23347,9929,507,0,43173,Low,0.33,Own,Medium
+Gina Harris DVM,34,Male,Armed forces technical officer,74942,36500,689,0,47741,Low,0.01,Own,High
+James Francis,23,Female,"Engineer, structural",63411,8796,648,1,46956,Medium,0.33,Lease,High
+Ronald Jefferson,18,Male,Product designer,66572,26921,695,2,5762,Low,0.27,Own,Low
+Chad Hutchinson,28,Male,Mechanical engineer,30559,28399,756,2,10936,High,0.01,Own,Medium
+Nicole Nguyen,51,Male,Psychiatric nurse,26575,13477,566,1,23757,Low,0.21,Lease,Medium
+Bradley Cook,26,Male,Quality manager,55792,30225,702,0,9659,High,0.24,Own,Medium
+William Jimenez,52,Female,Publishing rights manager,50865,38631,655,2,34199,Medium,0.3,Own,Medium
+Lisa Huynh,58,Female,Publishing rights manager,97149,35851,496,0,48157,Medium,0.29,Own,High
+Christopher Phillips,37,Female,Tour manager,29220,21998,747,1,36672,Low,0.2,Lease,High
+Wayne Sims,63,Male,Building surveyor,55285,29792,392,1,33796,Low,0.18,Own,High
+Henry Carson,19,Male,Theme park manager,59443,6714,604,0,6848,High,0.18,Lease,High
+Taylor Farley,41,Female,"Editor, commissioning",74164,16852,574,0,38362,Medium,0.37,Lease,High
+Kevin Massey,56,Female,"Scientist, clinical (histocompatibility and immunogenetics)",49989,18824,451,1,11072,Medium,0.08,Lease,Medium
+Lori Kelly,21,Female,"Engineer, manufacturing systems",41445,39534,343,2,34066,Low,0.16,Lease,Low
+Rita Thompson,40,Male,Print production planner,43661,9414,804,1,34139,Medium,0.2,Lease,Low
+Shawn Foster,55,Male,"Surveyor, planning and development",49867,27695,563,0,24311,Medium,0.33,Lease,Medium
+Bryan Miles,34,Female,Planning and development surveyor,75877,13474,682,1,31004,High,0.16,Own,High
+Kimberly Graham,64,Female,Gaffer,43953,16663,728,2,46295,High,0.26,Own,High
+William Martinez,41,Female,"Horticulturist, amenity",67557,26687,722,1,5881,Medium,0.2,Own,Low
+Candice Campbell,48,Female,"Investment banker, corporate",71638,35084,671,0,43569,High,0.29,Own,High
+Timothy Oconnell,58,Female,"Nurse, mental health",99148,26857,421,1,8134,Medium,0.35,Own,Medium
+Kimberly Scott,36,Male,"Editor, film/video",72761,16074,616,1,41062,High,0.35,Lease,Medium
+Devin Lester,47,Male,"Geneticist, molecular",77555,17507,770,2,31239,Low,0.15,Lease,Medium
+Andrea Perez,56,Female,Learning disability nurse,23558,33556,427,2,18351,Low,0.0,Lease,Medium
+Erik Harvey,43,Male,Sports therapist,26723,29949,817,2,42892,Medium,0.38,Lease,Medium
+Cameron Hunter,30,Female,Radiation protection practitioner,25898,27026,414,1,18113,High,0.18,Lease,Medium
+Robert Bowers,26,Male,Adult guidance worker,49060,29636,753,2,9388,High,0.4,Own,High
+Aaron Atkinson,21,Female,Mechanical engineer,78890,5342,825,2,13998,Medium,0.07,Own,High
+Heather Peters,42,Male,Water engineer,85722,30846,749,2,22688,Low,0.12,Own,Low
+Brittney Gardner,47,Male,"Education officer, community",33963,18599,585,1,11076,Medium,0.33,Own,High
+Sherry Carter MD,57,Female,Production engineer,67973,17701,771,1,36094,High,0.14,Lease,Low
+Patricia Stephenson,64,Female,Arts development officer,95484,5990,797,0,14436,High,0.15,Own,High
+Brian Mcbride,33,Male,Lexicographer,45575,6114,699,0,8950,High,0.36,Own,High
+Donald Oneill,24,Male,Textile designer,98806,25021,488,1,28752,Low,0.23,Own,Medium
+Julie Lin,25,Female,"Production assistant, radio",47505,9885,458,2,23076,Low,0.36,Own,Medium
+Carlos Harmon,20,Female,Building surveyor,87320,9652,377,0,38940,Medium,0.15,Own,High
+Kimberly Murray,22,Male,Patent examiner,59324,8350,576,1,24249,Low,0.16,Own,High
+Jeffrey Savage,27,Male,IT trainer,43871,24767,702,2,40514,High,0.1,Lease,Medium
+Matthew Lewis,62,Female,Information officer,62628,11415,485,0,34810,High,0.07,Lease,Medium
+Allison Rogers,26,Female,"Pharmacist, community",55239,17955,501,2,35581,Medium,0.39,Lease,Medium
+Richard Davis,18,Female,Building surveyor,38410,28813,805,1,31053,Medium,0.1,Own,High
+Timothy Wallace,58,Male,Theme park manager,69793,15748,526,1,47386,High,0.23,Lease,High
+Alexandra Clements,55,Male,"Administrator, education",20533,26740,319,1,49118,High,0.05,Own,Medium
+Julie Payne,37,Male,Warehouse manager,62597,19315,760,0,15355,Low,0.22,Own,High
+Janet Long,60,Male,Physiotherapist,21268,21521,691,1,14557,High,0.13,Own,Low
+Steven French,29,Female,Statistician,62005,28520,839,2,18188,Medium,0.09,Lease,Low
+Lisa Burgess,28,Male,International aid/development worker,59073,27847,711,1,41684,High,0.07,Own,Medium
+Steven Williams,39,Male,Actor,88366,29639,545,2,22105,High,0.02,Lease,Medium
+Anna Sawyer,46,Male,"Civil engineer, contracting",31732,11749,395,2,43366,Medium,0.02,Lease,Low
+James Moody,60,Female,Manufacturing engineer,97443,30979,369,0,13394,High,0.4,Lease,Low
+Mark Mcguire DDS,31,Female,"Engineer, electrical",88784,15968,723,2,30137,Medium,0.07,Lease,Low
+Michael Lee,55,Female,Exercise physiologist,68124,36897,313,2,44020,High,0.4,Own,Low
+Nicole Chandler,47,Male,"Doctor, general practice",76080,33178,696,1,44697,High,0.22,Own,Medium
+Bailey Lyons,26,Male,Textile designer,61918,26566,354,0,40343,High,0.03,Lease,Low
+Crystal Taylor,39,Female,Politician's assistant,85986,10059,514,1,18708,High,0.15,Lease,Medium
+Monica Cruz,21,Male,Acupuncturist,71508,9588,833,1,22881,Medium,0.05,Lease,High
+Christopher Ford,55,Female,Clinical cytogeneticist,43094,10303,771,2,30164,High,0.14,Own,Medium
+Alice Smith,61,Female,Heritage manager,62568,5901,705,2,31165,Low,0.08,Lease,Medium
+Rebecca Walker,61,Female,Industrial buyer,64626,5582,496,2,33639,High,0.33,Lease,Low
+Frederick Vaughn,56,Male,Proofreader,22577,21339,328,1,24205,High,0.37,Own,Medium
+James Ho,41,Male,Hydrologist,39129,26718,683,2,29518,Low,0.13,Lease,Medium
+Travis Herman,18,Male,"Engineer, materials",25093,14566,520,2,7311,High,0.29,Lease,High
+Katelyn Chandler,33,Female,"Designer, furniture",46315,15179,327,1,15367,Low,0.12,Lease,High
+Jackie Brown,64,Female,"Investment banker, operational",70209,34218,425,0,18502,Medium,0.36,Own,Medium
+Amanda Webb,39,Female,"Therapist, sports",51174,13845,735,1,48010,High,0.3,Lease,Medium
+Robert Farley,24,Male,Radio producer,60161,20142,547,1,6494,Medium,0.2,Own,Low
+Jeffrey Wilkerson,44,Female,Corporate investment banker,82671,31945,524,1,29771,Medium,0.33,Own,High
+Kathryn Greer,35,Female,Exhibition designer,97411,36161,394,0,44193,High,0.28,Own,Low
+Susan Smith,31,Male,"Designer, jewellery",81129,26870,648,2,26356,High,0.18,Lease,Medium
+Jerome Lawrence,39,Male,Sports administrator,96695,19233,459,1,8932,Low,0.04,Own,High
+Laura Brown,48,Female,Tour manager,22317,10554,570,2,28826,High,0.11,Lease,High
+Richard Gregory,20,Male,Quantity surveyor,59940,35228,397,1,13473,High,0.22,Lease,Medium
+Miranda Tran,52,Female,Copy,89763,10475,330,2,29449,High,0.07,Lease,Medium
+Lori Carter,28,Female,Comptroller,40938,20175,713,1,31439,Low,0.32,Lease,Medium
+Michelle Patel,37,Female,Market researcher,62936,18107,500,0,43128,Medium,0.15,Lease,High
+Tina Mason,57,Female,Product designer,92821,13717,709,2,41136,Medium,0.29,Own,High
+Tina Chandler,34,Female,"Research officer, political party",66126,16534,317,1,16575,High,0.35,Own,Low
+Diana Andrews,21,Female,"Engineer, broadcasting (operations)",64613,37894,470,0,32675,High,0.08,Own,Low
+Erica Hardin DDS,26,Male,Materials engineer,86171,30002,776,1,35995,High,0.06,Lease,High
+Timothy Wright,24,Female,Film/video editor,92914,38458,606,2,11531,Medium,0.02,Own,Medium
+Matthew Brooks,30,Female,Hospital doctor,71464,13984,356,1,44266,High,0.06,Lease,Low
+Mark Butler,41,Female,"Geologist, wellsite",84912,10971,744,0,27469,High,0.16,Lease,Low
+Beth Martinez MD,64,Female,"Education officer, museum",45504,17347,398,1,32213,High,0.1,Own,High
+Tammy Mack,26,Female,Phytotherapist,25212,31273,458,2,39180,High,0.06,Own,High
+Cindy Tyler,34,Male,Human resources officer,33796,17321,374,2,48198,Low,0.25,Own,Low
+Melissa Stephenson,21,Female,Public affairs consultant,65659,8696,628,2,6752,Medium,0.19,Lease,Low
+Daniel Butler,23,Female,Ergonomist,28751,16890,489,1,22737,Low,0.0,Own,Medium
+Dwayne Walters,59,Male,Accounting technician,92238,34923,829,0,30823,High,0.11,Lease,High
+Diane Wallace,45,Female,Technical brewer,95726,27144,460,1,12405,Low,0.32,Own,Medium
+Sarah Castro,35,Male,Audiological scientist,77384,8150,619,2,9597,High,0.15,Own,High
+Brittany Sanders,41,Male,Nutritional therapist,64873,18746,809,1,41328,Medium,0.23,Lease,Medium
+Gary Walsh,63,Male,Occupational therapist,91887,9804,742,0,27905,High,0.26,Lease,Medium
+Jane Porter,42,Female,Chartered public finance accountant,42155,10555,439,0,26471,Medium,0.39,Lease,Low
+Ashley Martin,60,Male,Fitness centre manager,71548,15752,464,0,19542,High,0.34,Lease,High
+Karen Ortega,21,Male,"Engineer, aeronautical",84079,15095,370,2,9627,Low,0.08,Lease,High
+Jim Ruiz,53,Female,Lexicographer,67740,29070,590,0,26928,Low,0.22,Own,Low
+Vanessa Lewis,59,Male,Translator,64165,17018,431,1,39300,Medium,0.22,Own,Medium
+Stephen Martin,50,Male,Passenger transport manager,70620,22483,715,2,12042,High,0.15,Own,High
+Sara Small,51,Female,"Lecturer, higher education",79021,11239,567,1,40596,Medium,0.08,Own,High
+Troy Martin,33,Female,Quantity surveyor,34779,17260,497,0,24171,High,0.22,Own,Low
+Frances Bentley,22,Male,"Therapist, music",54129,18051,534,1,30972,Medium,0.31,Own,High
+David Wright,27,Female,Armed forces technical officer,95019,25855,803,1,33057,Low,0.38,Own,Medium
+Stephen Walters,41,Male,"Development worker, community",63267,35048,780,0,37259,High,0.28,Lease,High
+William Mora,52,Female,Armed forces technical officer,58810,35808,686,1,18009,Low,0.03,Lease,Low
+Nicholas Jenkins,51,Male,"Engineer, automotive",82952,38497,310,1,14315,Medium,0.38,Own,High
+Patricia Morrow,61,Male,Technical brewer,95739,28141,368,0,39575,High,0.38,Own,Low
+Alexander Simon,49,Female,Acupuncturist,57843,13102,563,0,48409,Low,0.07,Lease,Medium
+Michelle Nguyen,26,Male,Marketing executive,77666,37434,578,0,14228,Low,0.26,Own,Medium
+Melissa Owens,18,Male,Financial adviser,30530,19647,519,2,10303,High,0.01,Lease,Low
+Mario Harris DVM,42,Male,Banker,41601,34391,524,0,36434,High,0.01,Own,High
+Zachary Bennett,19,Male,Licensed conveyancer,94097,19477,719,2,39575,Medium,0.14,Own,High
+April Hood,34,Female,"Therapist, music",50359,32231,330,1,19904,Medium,0.3,Own,High
+Charles Jenkins,42,Male,"Engineer, manufacturing systems",58669,37451,443,2,39681,High,0.13,Own,Low
+Richard Collins,63,Male,"Therapist, art",99331,20094,373,2,39594,Low,0.07,Own,Low
+Patricia Rich,33,Male,Careers information officer,97333,27493,565,1,26583,Low,0.04,Lease,High
+Lydia Young,25,Male,Exercise physiologist,55420,37172,348,0,41246,Low,0.03,Own,High
+Crystal Foster,23,Male,Community development worker,95051,29703,333,0,33461,Medium,0.21,Own,High
+Erin Huynh,51,Male,"Conservator, furniture",62810,7742,383,0,25955,Medium,0.1,Lease,High
+Robert Mcintosh,29,Female,Product manager,95701,25763,672,0,15904,Medium,0.14,Own,Medium
+Penny Simmons,64,Male,Music therapist,37275,38404,361,0,11176,Low,0.07,Own,High
+Kayla Alvarez,18,Male,Exhibition designer,39854,32535,387,0,13240,Medium,0.19,Own,Medium
+Katie Mann,18,Male,"Surveyor, mining",96604,33404,620,2,22042,High,0.39,Own,High
+Amy Sanchez,62,Male,Waste management officer,73042,8475,607,0,30614,High,0.2,Lease,Low
+Ryan Kerr,32,Male,Microbiologist,63709,25054,611,1,23550,High,0.24,Lease,Low
+Melissa Barrett MD,44,Female,Exhibition designer,49380,33320,647,2,9682,Low,0.12,Lease,Low
+Emily Myers,61,Female,English as a second language teacher,36956,31331,825,1,43717,Low,0.25,Lease,Medium
+Vincent Mitchell,21,Male,"Pilot, airline",29139,37987,801,1,10293,High,0.25,Own,Medium
+James Dixon,43,Female,Administrator,71924,7216,347,0,33683,Low,0.08,Own,Low
+Wendy Kim,18,Female,Trading standards officer,59191,9129,355,1,6655,Low,0.14,Lease,Medium
+Dylan Mendoza,57,Female,Multimedia specialist,82378,33803,426,0,29815,Medium,0.07,Own,Low
+Billy Nelson,40,Male,"Geneticist, molecular",49687,18713,760,2,20264,Medium,0.21,Own,Medium
+Brandon Harris,54,Male,Secondary school teacher,39474,22640,363,0,32303,High,0.31,Own,High
+Mary Jones,48,Female,"Civil engineer, consulting",41412,26694,549,0,28294,Medium,0.09,Lease,Medium
+Jennifer Bowen,39,Male,Risk manager,73963,26055,499,0,32616,Medium,0.11,Own,High
+Lisa Owens,58,Male,Database administrator,73091,19278,746,1,41593,High,0.33,Lease,High
+Brian Jackson,32,Female,TEFL teacher,94521,26838,730,1,33879,Medium,0.28,Own,Low
+Alexandra Marshall,21,Male,Television camera operator,39234,26718,780,1,22269,High,0.34,Own,High
+Stephanie Montgomery,42,Female,"Producer, television/film/video",67844,35913,459,0,29650,Medium,0.11,Lease,Low
+Kevin Molina,43,Male,Microbiologist,71527,21972,325,2,18589,Medium,0.15,Own,Medium
+Randy Thompson,21,Female,"Engineer, civil (contracting)",88056,38345,377,1,6446,Low,0.02,Own,Low
+Jacqueline Moreno,26,Female,"Psychologist, occupational",93411,32974,557,0,22691,High,0.07,Own,Medium
+Randy Reese,62,Male,Lexicographer,56519,26950,610,0,44587,High,0.37,Lease,Medium
+Randy Hebert,44,Male,"Programmer, systems",22056,38132,466,1,9724,High,0.13,Own,Low
+Tyler Bell,60,Female,Public relations officer,92324,27487,812,1,16802,Low,0.18,Own,Medium
+Steven Smith,38,Male,Editorial assistant,77389,11573,346,0,14593,High,0.38,Lease,Medium
+Lauren Smith,47,Male,"Surveyor, building",68518,9213,677,2,41554,Low,0.31,Own,High
+Tina Hahn,24,Female,Soil scientist,64124,10034,720,1,48237,Low,0.06,Lease,Medium
+Craig Silva,58,Female,"Nurse, learning disability",44407,27991,639,1,37233,Low,0.12,Lease,High
+Benjamin Carter,39,Female,"Chemist, analytical",92462,25265,486,1,19688,High,0.17,Own,Low
+Jody Romero,35,Male,"Administrator, sports",50217,5958,574,1,19113,High,0.04,Lease,Medium
+Austin Chambers,25,Male,Translator,26563,31945,792,1,41448,High,0.2,Lease,Medium
+Eric Smith,23,Male,"Pharmacist, hospital",66834,22166,300,0,30028,Medium,0.05,Own,Medium
+John Andrews,35,Male,Biomedical engineer,88224,25079,805,2,32155,High,0.12,Own,High
+Drew Tucker,53,Male,Community arts worker,66366,28454,799,2,46326,High,0.34,Lease,Medium
+Lisa Pittman,29,Female,Clinical embryologist,54831,5886,551,1,34613,High,0.09,Own,Medium
+Susan Mason,52,Male,Ecologist,47660,36576,775,0,24421,High,0.17,Lease,Medium
+Ronald Fox,21,Male,Fine artist,83439,35894,577,2,27766,Medium,0.18,Lease,High
+Breanna Wyatt,27,Male,Science writer,34006,35845,719,1,12435,Low,0.3,Lease,Low
+Sabrina Barber,32,Male,Emergency planning/management officer,58464,17963,431,1,19670,High,0.05,Own,High
+Richard Bonilla,58,Male,"Journalist, magazine",45255,33697,764,2,45418,Medium,0.2,Lease,Medium
+Corey Johnson,44,Female,Secondary school teacher,84357,17898,317,0,21593,High,0.28,Own,Medium
+Elizabeth Harris,53,Male,English as a foreign language teacher,32179,34628,664,2,26485,Medium,0.29,Lease,High
+Madeline Lloyd,63,Male,Barista,43977,21566,544,0,35266,Low,0.09,Lease,High
+Lisa Murray,34,Male,Risk analyst,63617,28243,449,2,39112,High,0.09,Own,High
+Daniel Barnes,55,Male,"Psychologist, prison and probation services",43225,30634,823,2,29136,Medium,0.34,Own,High
+Kenneth Marshall,24,Male,Sports coach,72455,28247,354,2,13732,High,0.04,Own,Low
+Katelyn Dunn,56,Male,Chief Operating Officer,56319,14911,529,0,24910,High,0.37,Own,High
+John Vargas,26,Male,Psychotherapist,81001,17859,449,2,30706,Medium,0.17,Own,Medium
+Richard Huffman,61,Male,Race relations officer,28035,22208,832,0,6983,Low,0.15,Own,Medium
+Jerry Mitchell,62,Female,Engineering geologist,75270,15445,337,2,44318,Low,0.21,Own,Low
+Jeremy Greer,19,Female,Volunteer coordinator,70712,20615,741,2,42581,High,0.05,Lease,Medium
+Timothy Bradley,54,Female,Charity officer,99311,24542,599,2,29958,Medium,0.31,Lease,Medium
+Brandon Campos,36,Female,Corporate investment banker,89263,39548,342,0,48625,Medium,0.2,Own,Medium
+Phillip Reese,36,Female,Artist,47004,29555,304,1,20084,High,0.07,Lease,Low
+Brent Garcia,23,Female,Therapeutic radiographer,58801,5678,824,2,33478,Low,0.13,Own,Medium
+Patty Williamson,27,Female,Proofreader,42179,28690,470,1,20952,High,0.01,Own,Medium
+Jennifer Mayer,58,Male,Musician,27813,10541,354,1,28073,Medium,0.12,Lease,Low
+Carl Price,64,Female,Product designer,53760,36618,601,2,35167,Medium,0.39,Lease,Low
+Steven Torres,31,Female,Town planner,22788,8521,668,0,10904,Medium,0.07,Lease,Low
+Marc Wright,29,Female,Logistics and distribution manager,78795,26555,316,0,7722,High,0.0,Own,High
+Shannon Mitchell,46,Female,"Programme researcher, broadcasting/film/video",60181,39817,653,0,10703,High,0.35,Lease,Low
+Edward Rice,24,Female,"Optician, dispensing",77264,38423,480,1,28006,High,0.04,Own,Low
+James Cain,30,Female,Customer service manager,67349,29409,786,0,26353,Low,0.27,Own,Medium
+Stacey Costa,38,Female,Aid worker,62467,29276,495,2,5625,Low,0.16,Own,Low
+Amanda Davis,22,Female,Arts development officer,43673,16570,352,0,11108,Low,0.07,Own,High
+Matthew Martin,59,Male,Geochemist,91548,24461,558,0,21926,High,0.22,Lease,High
+Bryan Young,63,Male,Geophysicist/field seismologist,73664,13704,715,0,30056,Low,0.3,Lease,Medium
+Douglas Montoya,58,Male,Homeopath,93599,22795,403,0,40615,Medium,0.3,Own,High
+Glen Black,60,Male,Geophysicist/field seismologist,60947,8108,735,0,35510,Medium,0.06,Lease,High
+Sandra Campos,40,Female,Telecommunications researcher,87849,8087,711,1,28867,Low,0.23,Lease,High
+Lauren Lane,54,Female,Electrical engineer,87542,30438,497,2,29222,High,0.16,Own,High
+Gloria Taylor,41,Male,Data processing manager,44141,37093,565,0,27932,Low,0.18,Lease,Low
+Brenda Willis,54,Male,Commercial art gallery manager,46283,23172,472,1,35993,Medium,0.23,Own,Low
+Mary Martin,44,Male,"Conservation officer, historic buildings",40511,25093,830,0,21774,High,0.18,Lease,High
+Ann George,58,Male,Dramatherapist,48610,36113,461,0,21940,High,0.16,Lease,High
+Bryan Sosa,41,Male,Press sub,29535,23751,442,0,10795,Low,0.34,Lease,Medium
+Justin Ortiz,53,Female,Land,25382,20306,720,0,22056,High,0.31,Lease,Low
+Thomas Hanson,30,Female,"Engineer, land",20630,17198,715,2,27654,Low,0.11,Lease,High
+Matthew Klein,28,Male,"Exhibitions officer, museum/gallery",38142,39729,441,0,42457,Low,0.4,Lease,Low
+Troy Ramirez,58,Male,"Engineer, building services",27595,29028,546,2,44518,Low,0.19,Own,Medium
+Robert Flowers,30,Male,Information systems manager,48750,27715,844,1,6315,High,0.11,Own,High
+Kaitlyn Robinson,39,Female,Hydrologist,81883,32312,747,0,24558,Low,0.13,Own,Low
+Linda Gutierrez,41,Male,General practice doctor,29190,24644,364,1,37182,Medium,0.31,Lease,High
+James Contreras,36,Female,Clinical psychologist,31477,12052,659,0,38163,Low,0.29,Own,High
+Kyle Williams,20,Female,Purchasing manager,89203,28662,455,1,7722,High,0.14,Own,Medium
+Ann Woods,52,Female,"Designer, industrial/product",53793,10591,331,1,7381,Medium,0.35,Own,Low
+Amy Rice,38,Female,"Development worker, community",51525,14638,701,2,19603,High,0.1,Lease,Low
+Lisa Stewart,63,Male,Building control surveyor,94927,39879,681,0,14654,High,0.04,Lease,Low
+Samuel Hill,18,Male,Community development worker,21550,28381,596,2,15850,Medium,0.31,Lease,High
+Daniel Perez,27,Male,"Psychologist, sport and exercise",67900,8558,318,2,10839,High,0.3,Lease,Medium
+Tanner Rocha,21,Female,"Horticulturist, commercial",47939,21241,470,0,30201,High,0.26,Lease,Low
+April Underwood,52,Female,Tourist information centre manager,67925,12405,516,0,26016,High,0.34,Own,Low
+Jose Bond,30,Male,Water quality scientist,54488,16002,569,0,48314,Low,0.32,Lease,High
+Carla Rich,51,Female,"Engineer, building services",46119,38449,382,0,39071,Low,0.11,Lease,Low
+George Dunn,44,Female,"Civil engineer, contracting",73372,39890,683,2,16766,Low,0.05,Own,High
+Devin Hicks,59,Male,"Engineer, communications",26700,9763,740,0,33333,Low,0.3,Lease,Low
+Mrs. Donna Fuller,39,Male,Television camera operator,28344,11029,492,1,16100,Medium,0.07,Lease,High
+Victor Brown,39,Female,Advertising art director,96064,8953,783,0,21576,Low,0.39,Lease,Medium
+Glenn Howard MD,32,Male,Energy engineer,54201,10605,488,0,38869,High,0.25,Lease,Medium
+Brendan Richardson,38,Male,Social researcher,45642,36601,498,0,45585,Medium,0.27,Lease,High
+Brittany Johnson,46,Male,Forensic psychologist,34794,26443,523,2,13656,High,0.33,Lease,Medium
+Natalie Harrison,63,Male,Naval architect,91657,24479,525,2,22725,Low,0.0,Own,High
+Bruce Nicholson,47,Female,Prison officer,23754,14876,786,2,15780,High,0.29,Own,Medium
+Justin Young,49,Male,Probation officer,65709,9900,589,0,19754,Low,0.27,Lease,High
+Steven Stanley,57,Male,Air cabin crew,46241,31333,693,1,17461,Low,0.02,Own,High
+Logan Robinson,35,Female,Ranger/warden,58247,19388,409,1,34559,Low,0.36,Lease,High
+Cristian Blackburn,53,Female,Astronomer,53497,36439,307,1,45571,Low,0.16,Own,High
+Cynthia Williamson,45,Female,Museum education officer,21542,6145,583,1,18602,Low,0.39,Own,High
+Susan Watson,32,Male,Herbalist,30357,30093,581,1,38223,Low,0.16,Own,Medium
+David Haynes,53,Male,Energy manager,36355,37546,612,0,6745,Low,0.17,Own,High
+Terry Kennedy,33,Male,Chief Executive Officer,51258,9408,700,0,44714,Low,0.4,Own,Medium
+Elizabeth Hernandez,53,Male,"Surveyor, building control",24057,6260,601,1,11351,Low,0.36,Lease,Medium
+Mr. Tim Hebert,41,Male,Herpetologist,68297,35783,792,2,13781,Low,0.34,Own,Low
+Sarah Ward,51,Male,Actuary,23175,36965,315,2,16988,Medium,0.3,Lease,Low
+Catherine Bray,25,Male,"Nurse, adult",52458,14970,663,2,30768,High,0.04,Lease,High
+Shawn Martinez,53,Female,"Engineer, civil (contracting)",30722,14088,405,2,24948,Medium,0.0,Own,Medium
+Madison Marshall,38,Female,Bookseller,86023,7351,614,2,11639,Low,0.1,Own,High
+Karen Harper,50,Male,Arboriculturist,74343,36775,418,2,24025,Medium,0.11,Lease,Medium
+Jose Gates Jr.,43,Female,Broadcast presenter,95266,24791,644,1,8717,Low,0.11,Own,Low
+Edward Wagner,22,Female,Editorial assistant,90028,23287,784,1,29510,High,0.36,Own,Medium
+Mary Bailey,59,Male,Artist,80037,36001,830,2,31473,High,0.06,Lease,Medium
+John Leblanc,36,Male,Biomedical scientist,27962,38055,576,2,11791,Low,0.35,Own,High
+Tara Miller,26,Female,Financial controller,78144,5077,732,1,41792,Medium,0.06,Own,Low
+Jennifer Kramer,61,Female,Farm manager,70610,19313,847,2,26665,Medium,0.16,Own,Medium
+Alicia Lin,53,Female,Video editor,41390,14395,534,2,7441,Medium,0.1,Own,Low
+Mark Brooks,43,Female,Gaffer,86938,19262,560,0,11942,Low,0.03,Lease,Medium
+Eduardo Castro,30,Female,Veterinary surgeon,68604,27113,458,1,13597,Low,0.4,Lease,Low
+Andrew Garcia,23,Female,Microbiologist,93527,23155,707,2,7006,Low,0.13,Lease,High
+Daniel Ortiz,63,Female,Petroleum engineer,76544,25560,467,0,31094,Low,0.29,Lease,Low
+Christy Williams,38,Male,Civil Service fast streamer,92254,6519,554,1,19797,High,0.23,Lease,Medium
+Curtis Weaver,28,Male,"Engineer, building services",82227,25375,778,0,33793,High,0.19,Lease,Medium
+Joel Rivera,47,Female,Quantity surveyor,49981,21181,529,1,9380,High,0.15,Own,High
+Shawn Fuller,47,Male,Health physicist,72050,10952,545,2,40208,Medium,0.18,Lease,Low
+Tina Norman,53,Female,"Investment banker, operational",29930,27425,827,1,34841,Low,0.22,Lease,High
+Linda Davis,25,Female,Purchasing manager,27533,33956,536,1,31122,Low,0.28,Lease,High
+Manuel George,46,Female,Printmaker,58066,34871,353,0,5065,Low,0.4,Own,Low
+Mark Dominguez,50,Female,Commissioning editor,27180,9360,386,1,14297,Medium,0.25,Own,High
+Theresa Jennings,37,Female,Cytogeneticist,58747,9115,368,1,47930,High,0.27,Lease,Medium
+Monica Martin,47,Male,"Production designer, theatre/television/film",23005,35409,568,2,13262,High,0.37,Own,High
+Kiara Lee,54,Female,Leisure centre manager,68907,8442,478,2,34667,Medium,0.23,Own,Medium
+Cheryl Clark,44,Female,"Scientist, research (life sciences)",24001,36630,629,0,17639,Medium,0.04,Lease,High
+Danielle Phillips,59,Female,Higher education careers adviser,42304,33915,332,1,31567,Low,0.01,Own,Low
+Thomas Taylor,61,Female,"Engineer, manufacturing systems",22414,12617,606,0,42198,Medium,0.21,Own,High
+Justin Shaffer,24,Female,Chief of Staff,43627,18007,654,2,21943,High,0.32,Lease,Low
+Tony Murray,21,Female,Social researcher,91721,21917,300,0,44664,Low,0.13,Own,High
+Angela Lee,35,Female,Applications developer,72771,9407,431,1,17411,Medium,0.28,Lease,High
+Ryan Hall,31,Male,Airline pilot,66723,23840,328,2,40440,Medium,0.4,Own,Medium
+Angela Quinn,36,Male,Chartered public finance accountant,63283,24015,598,2,16854,Low,0.04,Own,High
+Rebecca Martinez,20,Male,Planning and development surveyor,64434,8880,538,0,23105,Low,0.27,Own,Medium
+Sharon Mercado,29,Female,"Biochemist, clinical",30878,5845,848,1,43655,Medium,0.39,Lease,Low
+Victor Jackson,44,Female,Tourist information centre manager,47363,9489,559,2,39455,High,0.02,Own,Medium
+Tiffany Reynolds,55,Female,International aid/development worker,36997,27296,835,0,9513,Medium,0.07,Own,High
+Kaitlin Reyes,41,Female,"Surveyor, minerals",31161,31847,451,0,29903,Medium,0.34,Own,High
+Donna Jones,26,Male,"Pilot, airline",78441,33135,481,2,25611,Low,0.1,Lease,High
+Stephanie Orr,18,Female,Field seismologist,88946,32561,337,2,16053,Medium,0.19,Lease,Low
+Linda Walker,50,Male,Animal technologist,32196,15714,368,0,38818,High,0.13,Lease,Low
+Catherine Campbell,30,Female,Insurance broker,57897,29066,391,2,9690,Medium,0.18,Lease,Low
+Peter Taylor,60,Male,Network engineer,31386,10271,764,2,20158,Medium,0.38,Lease,Medium
+Jorge Stein,22,Male,"Librarian, academic",88794,9479,833,0,44835,Low,0.19,Lease,Medium
+Brandy Williams,59,Male,Futures trader,60612,26596,434,0,6304,Low,0.18,Own,Medium
+Steven Martinez,32,Male,Social worker,82631,36575,338,0,32567,Medium,0.16,Own,Low
+Patrick Molina,57,Male,Health promotion specialist,78716,20585,623,2,38360,High,0.33,Lease,High
+Cynthia Baldwin,25,Male,"Nurse, adult",98294,20418,730,1,37976,High,0.16,Own,High
+Jorge Marshall,61,Male,Agricultural consultant,64039,11803,400,1,30705,High,0.26,Lease,Medium
+Toni Williams,57,Female,Community arts worker,21027,39251,629,1,6678,Medium,0.13,Lease,High
+Joe Collins,49,Female,Arboriculturist,56720,34847,537,2,14635,Medium,0.09,Own,Medium
+Bryan Hughes,61,Male,"Engineer, biomedical",59735,21322,495,0,10103,Medium,0.17,Lease,Low
+Laura Dennis,30,Female,Futures trader,47087,22835,560,1,27253,Low,0.2,Lease,High
+Pamela Jennings,29,Female,Energy manager,45656,33715,621,1,45276,Medium,0.07,Own,Low
+Craig Campos,34,Male,Adult nurse,31145,30573,805,1,20206,Low,0.26,Own,Medium
+Maria Price,35,Male,Trade mark attorney,93601,35293,666,0,27972,Medium,0.05,Lease,Medium
+Elizabeth Ramirez,60,Female,Physiological scientist,82711,28738,769,0,22367,Low,0.04,Lease,Low
+Janice Golden,62,Female,Glass blower/designer,54500,5061,786,0,10432,Low,0.4,Lease,High
+Adam Romero,61,Female,Comptroller,75317,38772,528,0,21640,High,0.21,Own,Low
+Joann Cohen,52,Male,Diagnostic radiographer,56513,38052,675,1,40869,Medium,0.06,Own,Low
+Joseph Taylor,62,Male,Counsellor,56856,33221,647,2,18134,Low,0.01,Own,Low
+Mark Williams,23,Male,Restaurant manager,48193,19163,344,0,11039,Low,0.19,Own,High
+Corey Mora,22,Female,Commercial/residential surveyor,94309,19582,339,1,49844,High,0.09,Lease,High
+Thomas Combs,52,Male,Multimedia specialist,29134,23844,647,0,39285,High,0.03,Lease,Medium
+Barbara Neal,51,Female,"Scientist, audiological",77283,10088,549,1,39276,Low,0.29,Lease,Low
+Larry Robinson,35,Female,Fast food restaurant manager,94913,31454,796,1,29110,Medium,0.06,Lease,High
+Adam Cook,50,Female,Chartered loss adjuster,76359,7639,508,2,38355,Medium,0.17,Lease,High
+Christina Knox,42,Female,Production manager,99765,21518,333,0,7067,High,0.2,Own,High
+Lori Barnett,43,Female,Merchant navy officer,22550,29603,842,1,5273,High,0.22,Own,Low
+Maria Houston PhD,54,Female,Trading standards officer,93058,36443,571,0,38440,Medium,0.02,Own,High
+Melissa Ramsey,62,Male,Public relations officer,42715,14159,608,1,29124,Low,0.05,Own,Medium
+Bradley Bell,44,Male,"Radiographer, diagnostic",96838,32924,731,2,18968,Low,0.11,Own,High
+Allison Cobb,51,Male,Television/film/video producer,93959,34453,526,2,17051,Medium,0.17,Own,Medium
+Kyle Waller,27,Female,Firefighter,79160,7614,769,0,38309,Medium,0.13,Lease,Low
+Michael Mejia,28,Male,"Exhibitions officer, museum/gallery",47314,5600,675,1,49241,High,0.33,Own,Low
+Jeffrey Carrillo,64,Male,Publishing rights manager,39694,20224,609,1,30968,High,0.24,Lease,Low
+Karen Burton,52,Female,Catering manager,42906,19254,434,0,37427,Low,0.17,Lease,Medium
+Mr. Jonathan Palmer MD,45,Male,Patent attorney,49036,14720,508,2,49201,Low,0.05,Lease,Low
+Zachary Reed,57,Female,"Sound technician, broadcasting/film/video",56014,26347,846,0,49963,Low,0.4,Own,Low
+Tammy Hernandez,49,Female,Field trials officer,20776,12611,833,1,9558,Low,0.12,Own,Medium
+Cameron Jones,53,Female,Seismic interpreter,71748,5463,691,2,27900,Medium,0.09,Lease,Medium
+Rachel Gallagher,20,Male,Dentist,31126,32153,826,0,43989,Low,0.07,Lease,Low
+Charles Welch,19,Male,Technical brewer,21229,27786,351,2,29625,High,0.29,Own,Medium
+Tammy Meyer,24,Female,Licensed conveyancer,80217,18408,326,1,37575,Medium,0.09,Lease,Low
+Vickie Chambers,52,Female,Chartered certified accountant,26203,30576,791,1,42324,Low,0.01,Lease,Low
+Travis Newman,37,Male,Product designer,86668,32320,360,1,16551,Medium,0.22,Lease,High
+Andrew Conley,38,Female,Chartered public finance accountant,98458,35535,669,1,49109,Low,0.21,Own,Low
+Dakota Martinez,28,Male,Pathologist,75982,38098,619,0,19762,Low,0.16,Own,Low
+Wendy Hutchinson,28,Male,Furniture designer,58742,12945,775,2,13107,High,0.34,Lease,Medium
+Jessica Villarreal,20,Female,Systems developer,26905,11355,440,0,41506,High,0.18,Own,High
+Tammy Moore,34,Female,Professor Emeritus,36495,7485,344,1,20585,Low,0.08,Lease,High
+Travis Taylor,64,Female,Forensic scientist,72884,34333,655,2,47742,High,0.06,Own,Medium
+Megan Liu,40,Male,Company secretary,69009,36380,338,2,19309,High,0.4,Own,Low
+Brad Spencer,33,Male,"Engineer, materials",54996,28089,344,2,42371,Medium,0.26,Own,High
+Kelly Smith,44,Female,"Conservation officer, historic buildings",62246,9268,843,2,48123,Medium,0.09,Own,Low
+Stacey Greer,35,Male,Systems developer,45467,36284,578,2,41878,Medium,0.36,Own,Medium
+Frank Curtis,36,Female,"Scientist, audiological",75052,32691,741,0,26251,Medium,0.04,Lease,High
+Teresa Guerra,18,Male,Broadcast engineer,83165,13694,329,0,15462,High,0.02,Lease,High
+Joshua Ramirez,28,Female,Chief Technology Officer,47677,7766,822,0,12271,Medium,0.16,Lease,High
+Joel Carpenter,55,Male,"Teacher, early years/pre",33448,16007,562,1,36864,Low,0.31,Lease,Medium
+Jamie Carlson,34,Male,Chartered certified accountant,78162,38915,467,0,7598,High,0.33,Lease,High
+Robin Martin,18,Female,Media planner,40780,21340,559,2,24297,Medium,0.07,Own,High
+Hunter Rice,41,Male,Higher education careers adviser,21305,19452,538,2,18668,High,0.28,Own,High
+Jamie Whitehead,45,Male,"Engineer, water",61728,29925,569,0,38876,High,0.15,Own,Medium
+Tammy Ellis DDS,60,Male,Occupational therapist,41059,15535,680,2,29306,Low,0.26,Lease,Medium
+Nathaniel Ramirez,44,Female,"Programmer, systems",39363,20682,662,0,20610,Low,0.38,Lease,Medium
+Megan Crawford,40,Female,Civil Service administrator,84841,24811,794,2,34313,High,0.33,Own,Low
+April Brown,50,Female,Medical technical officer,89083,26449,728,1,39603,Low,0.07,Own,Medium
+Kristin Lyons,19,Female,Colour technologist,57051,31211,429,0,30976,Low,0.28,Own,Low
+Michelle Miller,29,Female,Sub,74096,24938,765,0,11289,Medium,0.27,Lease,High
+Patricia Byrd,19,Female,Social researcher,78505,13687,718,1,27571,Low,0.13,Own,Low
+Anna Alexander,31,Male,Psychiatrist,51153,15971,338,2,40861,Medium,0.03,Lease,High
+Erin Myers,24,Male,"Editor, magazine features",60649,34009,724,1,12419,High,0.11,Lease,Medium
+Tyler Ford,58,Female,Patent attorney,59493,20165,742,2,5554,Medium,0.32,Own,Medium
+Andrea Morales,61,Male,Travel agency manager,57327,21239,365,0,10529,Medium,0.25,Lease,High
+Douglas Barry,46,Female,Trade union research officer,60007,25933,692,1,42034,High,0.06,Lease,Medium
+Mallory Norris,41,Male,Gaffer,94020,17602,511,0,31880,High,0.31,Lease,Low
+Kristina Peterson,49,Male,"Engineer, drilling",83342,11010,336,1,9435,Low,0.02,Own,Low
+David Contreras,32,Female,"Copywriter, advertising",51531,25847,459,1,41373,Low,0.02,Own,High
+Kelly Garrett,24,Female,Higher education careers adviser,34799,39340,710,2,22075,Medium,0.34,Lease,Medium
+Dorothy Hartman,40,Male,Forensic scientist,82513,19564,527,2,12699,High,0.1,Own,High
+Caitlin Phelps,35,Male,Chief Executive Officer,57225,20807,426,2,36076,Low,0.08,Own,Medium
+Michael Robinson,52,Female,Counselling psychologist,93598,18602,726,0,39364,High,0.31,Lease,Low
+Kenneth Bell,60,Male,"Producer, radio",91377,18277,310,1,20669,Medium,0.33,Lease,Low
+Michael Everett,22,Male,Games developer,31520,32597,583,0,25965,Low,0.17,Own,High
+Kevin Harmon,19,Female,Art gallery manager,56727,25170,781,0,30156,Medium,0.1,Own,Low
+Jennifer Baker,46,Female,"Therapist, art",84303,35495,640,0,47136,Medium,0.27,Own,Low
+Katie Wagner,26,Female,Fast food restaurant manager,94867,13005,387,1,24274,Medium,0.33,Lease,Medium
+Karen Carter,36,Male,Telecommunications researcher,87383,19162,720,2,35428,High,0.29,Lease,High
+Kyle Jackson,56,Female,Charity officer,89217,24857,812,2,33320,High,0.26,Own,Medium
+William Casey,21,Male,Advertising account planner,97797,8285,680,2,30473,Medium,0.14,Own,High
+Lori Morales,46,Female,Marine scientist,28514,9182,414,1,13907,Low,0.07,Own,Medium
+Spencer Ryan,52,Male,Equities trader,52472,30351,399,1,35405,High,0.21,Own,High
+Karen Neal,58,Female,"Psychotherapist, dance movement",94363,13690,434,2,6361,Medium,0.37,Lease,Low
+Joshua Reese,48,Male,"Runner, broadcasting/film/video",53878,12107,552,2,10079,High,0.24,Own,Medium
+Jacob Kerr,52,Male,Interpreter,99572,25076,538,1,6196,High,0.03,Own,Medium
+Ryan Curtis,44,Male,"Geologist, engineering",91590,39620,520,2,5846,Low,0.2,Lease,High
+Sara Horton,40,Male,"Engineer, aeronautical",70675,33272,585,1,15365,Low,0.23,Lease,High
+Scott Fields,39,Male,International aid/development worker,62768,13299,749,2,31307,Low,0.12,Own,High
+Lonnie Hudson,32,Female,"Accountant, chartered certified",29514,9069,535,1,43223,Low,0.18,Own,Medium
+Daniel Suarez,43,Male,"Engineer, aeronautical",99157,32575,522,1,43366,High,0.28,Own,Low
+Chad Johnson,32,Female,Technical author,28222,14960,505,2,6043,Low,0.01,Own,High
+Todd Barnes,22,Male,Operational investment banker,57918,8004,326,2,43924,Low,0.09,Own,Medium
+Jacqueline Daniels,35,Male,Television floor manager,62332,28900,777,2,14695,Medium,0.11,Lease,Medium
+Ms. Paula Stone,48,Female,"Designer, graphic",79880,13849,777,2,23515,Medium,0.36,Own,Low
+Samantha Curtis,37,Female,Television/film/video producer,68746,22729,321,0,39511,Medium,0.4,Own,Medium
+Craig Kelley,29,Male,Hospital pharmacist,56075,8358,313,1,6550,High,0.33,Own,Low
+Joseph Cole,42,Female,Public affairs consultant,28205,29102,563,0,39959,Medium,0.35,Lease,Low
+Tamara Garcia,40,Male,Public relations officer,21607,16306,308,1,13484,Low,0.09,Own,High
+Kim Ray,52,Male,"Engineer, civil (consulting)",97136,39675,435,0,6054,Low,0.03,Lease,Medium
+Christy George,58,Male,"Journalist, magazine",49384,30301,649,0,48280,Low,0.36,Own,High
+Elizabeth Smith,29,Female,Equities trader,90075,26930,481,2,7123,Medium,0.28,Own,Low
+Cathy Schneider,32,Female,Landscape architect,82597,30276,651,1,5006,Low,0.36,Lease,Low
+Christina Russo,35,Male,Physiotherapist,24727,12561,401,0,25413,Low,0.33,Own,Medium
+James Crawford,23,Female,"Scientist, product/process development",20948,25489,300,1,15200,High,0.24,Own,Medium
+Alexandra Cannon,34,Female,Tax adviser,81663,36664,723,0,13656,Medium,0.24,Lease,High
+Janice Diaz DDS,36,Female,Market researcher,37415,34401,370,1,25466,Low,0.09,Lease,Medium
+Dustin Evans,50,Female,Oceanographer,44673,33551,453,0,18046,High,0.21,Own,Medium
+Joseph Peterson,38,Female,Records manager,48051,24493,683,2,34921,Low,0.06,Lease,Low
+Lindsey Mckenzie,59,Female,Physiological scientist,66734,5175,534,0,18388,Low,0.01,Own,Medium
+Shannon Berger,29,Male,Forensic psychologist,56079,34623,570,0,7723,High,0.22,Own,High
+Joseph Medina,63,Female,"Scientist, physiological",72567,24799,325,2,19056,Medium,0.06,Lease,Medium
+Matthew Wise,40,Male,Estate manager/land agent,90352,19188,545,0,16797,High,0.23,Lease,Low
+James Swanson,40,Male,Personnel officer,32373,16780,761,1,28736,High,0.18,Lease,Low
+Martin Sanchez,46,Male,Arts development officer,82226,15537,427,2,15895,Medium,0.16,Own,High
+Robert Moore,41,Male,Clinical research associate,20686,20647,628,0,46782,Medium,0.27,Lease,High
+Steven Freeman,40,Male,Economist,90862,7597,353,1,28792,High,0.13,Lease,Medium
+Tracy Cooley,20,Female,"Physicist, medical",27343,22680,556,0,9816,High,0.35,Lease,Low
+Rebecca Parker,45,Male,IT trainer,70174,24944,685,2,12262,High,0.22,Own,Low
+Theresa Higgins,23,Female,"Engineer, structural",71783,13383,557,0,13688,Medium,0.37,Own,High
